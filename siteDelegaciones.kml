@@ -1,0 +1,1126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Mapa sin nombre</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Delegaciones Municipales</name>
+			<Placemark>
+				<name>Delegación Municipal Lomas Este</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/j-g7x1fmPvJuoRdegpXB-RwC-GzxMAWD9h1ZZIzaVTy0qthLyjii2KwtBvFPOczGhbu_1JwTk9HB7jdlGcuLV-Lrm2pRBgmns8KBbWSpV3hx-xoZ7YSK7fjraPMHg3Nt3iPfFh9ENLi5O6cxLosstpV_MQooLv2wkAsi3FJaxZfSTgPdYoBM45ry2iT3eeNtiP9vZBAFHTaS3rDZjXiPzWjCUhcgMD7vWCU7yg" height="200" width="auto" /><br><br>Del. Juan Carlos Stigliano / Alsina 1970, Lomas de Zamora /Teléfono:2061-4013 / Mail: jc.stigliao78@gmail.com / Horarios de atención: Lunes a Viernes de 8 a 16 hs. / ¿Cómo llegar? Líneas de colectivos: 51 – 79 – 160 – 165 – 266 – 315 – 338 – 403 – 405 – 421 – 540 – 542 – 543 – 544 – 550 – 561 – 562 - 564]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/j-g7x1fmPvJuoRdegpXB-RwC-GzxMAWD9h1ZZIzaVTy0qthLyjii2KwtBvFPOczGhbu_1JwTk9HB7jdlGcuLV-Lrm2pRBgmns8KBbWSpV3hx-xoZ7YSK7fjraPMHg3Nt3iPfFh9ENLi5O6cxLosstpV_MQooLv2wkAsi3FJaxZfSTgPdYoBM45ry2iT3eeNtiP9vZBAFHTaS3rDZjXiPzWjCUhcgMD7vWCU7yg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.395972,-34.759683,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delegación Municipal San José Oeste</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/1iHhtIssrbSppTIrtf3VUSf0vuqOq-9xzv90TeC2wMk2VA9EF-DrSkk_50IlSl413eBkiINDQVJfXYcAVFwUMiotvlqehcqHbOe8Afql3H1OtiO_3G9YcbHWvLvPdfW8qtR-IYL4Fxv8J72giAENhlBcmELxXBNHw0Upj_BsI9-HrYPVFzrDGZh_B-qAyh6jDS0usp0hA4A0V5NUorGLvIgFu9YLPQQ_7k4A9U7bXpCW0t4Ed8Tf67fJHBk79wZtI4dR-28XG1BMZAeIQTqiE6E-xCyANS3Xgil9GB6tcv74LzdbwgZrzy0YN-14aC-HhpYfhU-O1W5a6z-5DJbqpLisuoZRr7iZsiVB6148c7e1_CgkP6X3Hv8iZ-XftifrVGd48QWwKQC8EHz955oJscc6bj9-QC3WguvOtG19Y-ds8ZaheGeK19seCdFqzIV9tbGYreP17OWps_P6Op8bm2iqdo1P1r0UZgw" height="200" width="auto" /><br><br>Del. Roberto Torres / Av. Eva Perón 2940 / Teléfonos: 4264-9061/1305/ Mail: delegacionsanjoseldz@outlook.com.ar / Horarios de atención: Lunes a Viernes de 8 a 14 hs. / ¿Cómo llegar? Líneas de colectivos: 266 ( B,H) - 278 (A,E)]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/1iHhtIssrbSppTIrtf3VUSf0vuqOq-9xzv90TeC2wMk2VA9EF-DrSkk_50IlSl413eBkiINDQVJfXYcAVFwUMiotvlqehcqHbOe8Afql3H1OtiO_3G9YcbHWvLvPdfW8qtR-IYL4Fxv8J72giAENhlBcmELxXBNHw0Upj_BsI9-HrYPVFzrDGZh_B-qAyh6jDS0usp0hA4A0V5NUorGLvIgFu9YLPQQ_7k4A9U7bXpCW0t4Ed8Tf67fJHBk79wZtI4dR-28XG1BMZAeIQTqiE6E-xCyANS3Xgil9GB6tcv74LzdbwgZrzy0YN-14aC-HhpYfhU-O1W5a6z-5DJbqpLisuoZRr7iZsiVB6148c7e1_CgkP6X3Hv8iZ-XftifrVGd48QWwKQC8EHz955oJscc6bj9-QC3WguvOtG19Y-ds8ZaheGeK19seCdFqzIV9tbGYreP17OWps_P6Op8bm2iqdo1P1r0UZgw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.361795,-34.761241,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delegación Municipal Temperley Este</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/UFpucwtNo_t9ep9rEcseRun7o3EU-Q9YZGW-nDHGBYk1D20QAHHdJR0nlzFuuFy9SHlyPSmW5r6lAmbAlEx27xe4M5a3dE6grJyHN8XA3FuwYXwYQuPBoKu_j0RB8Tb8eNZVMHfKQ08ilJRpcBtt4tyyqthHZxFzrSqkORWLULGRw5yoQTrC54jPElcazbdPZcJgZy_T_PlPKt9LcmOGFCW_KpbabqLkNJxrEqcvjA3mdYBTJ-Z299FvI7dkoTI0uipqcN36D3swpXZ0i4GRpY_ynqH4eJT9rSLrqbS_0dt8cZTCjo_wuObrE-7nlFGvs9qgVF5F3pTlaNFCCFC0TnDYeuLPRTMVIKSMbjZIeRJTBbVywh9PMJ6Rg7xDRFix050_nGGGu5x3jlKVTU6pSorlcUJpdiIxm0WaaOP6pw8DGFcuaoWChs2Jbw8" height="200" width="auto" /><br><br>Del. Fabián García / Av. Eva Perón 1732 / Teléfono: 4264-7886/  Mail: delegaciontemperleyeste@gmail.com / Horarios de atención: Lunes a Viernes de 8 a 16 hs./ ¿Cómo llegar? Líneas de colectivos:<br>51- 79- 160- 165- 177- 179- 239- 266- 271- 278- 299- 306- 318- 323- 338- 403- 435- 436- 547- 549- 561- 562- 564]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/UFpucwtNo_t9ep9rEcseRun7o3EU-Q9YZGW-nDHGBYk1D20QAHHdJR0nlzFuuFy9SHlyPSmW5r6lAmbAlEx27xe4M5a3dE6grJyHN8XA3FuwYXwYQuPBoKu_j0RB8Tb8eNZVMHfKQ08ilJRpcBtt4tyyqthHZxFzrSqkORWLULGRw5yoQTrC54jPElcazbdPZcJgZy_T_PlPKt9LcmOGFCW_KpbabqLkNJxrEqcvjA3mdYBTJ-Z299FvI7dkoTI0uipqcN36D3swpXZ0i4GRpY_ynqH4eJT9rSLrqbS_0dt8cZTCjo_wuObrE-7nlFGvs9qgVF5F3pTlaNFCCFC0TnDYeuLPRTMVIKSMbjZIeRJTBbVywh9PMJ6Rg7xDRFix050_nGGGu5x3jlKVTU6pSorlcUJpdiIxm0WaaOP6pw8DGFcuaoWChs2Jbw8</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.374844,-34.767898,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delegación Municipal Banfield Este</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/F-uBxHcAiZ5wF0EJkqUTI_Ic35SfGJuNWIPcTgRV7M9F8l_ZaJ0kKZWa_7Xz1Xr4ePuEqUE5USBqBYfiksafRziAbmOm_dhNY0me-NiN3OYGaorbydngaGn74valX1GBqGoR3Relz9fza2pjjrf05NxdlP4Dn7S86DPjHq4y9_EBP8E5L19LNSVgbj1bgS6_K6V2sqa2UvVDEdiyfJku3OsqX6wH4dtx_wT-OaCLmc875K9k5PIsM-aiDs5lfdoJuTWgp4Z0fZ42Pxdf_p54jpwUvljmJ7i0MiALZY8BpqJCEKLjfNgS-CqCPfPYxn9YkAh9IHgLV8-NalaWGxm6hOOUL1dWOV7xaUx6iE5DkQixon30ZQVMjxVEjDfTmAaxL48iXb8jeW_axkSEgMwYibW-crJQdbPFfSH-T7OgCrVTbILMRp3MKcKH9qU" height="200" width="auto" /><br><br>Del. Mateo Gentile / Alsina 562 /Teléfono: 4202-9074 / Mail: delegacionbanfield_este@hotmail.com  Horarios de atención: Lunes a Viernes de 8 a 18 hs. / ¿ Cómo llegar? Líneas de colectivos:<br>79 – 160 - 239- 278 - 299- 318 – 435 - 436 – 505 – 514 - 541 -547 - 548 – 552]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/F-uBxHcAiZ5wF0EJkqUTI_Ic35SfGJuNWIPcTgRV7M9F8l_ZaJ0kKZWa_7Xz1Xr4ePuEqUE5USBqBYfiksafRziAbmOm_dhNY0me-NiN3OYGaorbydngaGn74valX1GBqGoR3Relz9fza2pjjrf05NxdlP4Dn7S86DPjHq4y9_EBP8E5L19LNSVgbj1bgS6_K6V2sqa2UvVDEdiyfJku3OsqX6wH4dtx_wT-OaCLmc875K9k5PIsM-aiDs5lfdoJuTWgp4Z0fZ42Pxdf_p54jpwUvljmJ7i0MiALZY8BpqJCEKLjfNgS-CqCPfPYxn9YkAh9IHgLV8-NalaWGxm6hOOUL1dWOV7xaUx6iE5DkQixon30ZQVMjxVEjDfTmAaxL48iXb8jeW_axkSEgMwYibW-crJQdbPFfSH-T7OgCrVTbILMRp3MKcKH9qU</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.393075,-34.742977,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delegación Municipal Villa Fiorito</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/lXRJ9BHrBgRxBpuZ3Vu2OHUfRiuh10bjKJyvfZkpI2Zf_qtoG0jvlYE0_POqw1Cvm_NajVR8Y9Hn2YZBcrJvrR9pcef7V3G9VF9M91Npf7prxhB7hnrzgrRrvjOdwTLEjYmdC0-lHKnVXg7YBgaHxnDjFPdf6EQwPP2FwsYUn1px8TiaPlCt_fp63v4F_fuRT1kXUU-VXHEh3fZaa2j_jiKUTcsEEQXKYfV2CDJ9olSFECOZViIBiz-60CpEpZyaM9CJsmzZ-2y8HXk5UikciXoJaSuzsLnI5F0dpQ4_0pPE6xposRq10HsgARvIPZ2I5Y-9bz95_D9_-gh5IYruh32Fmwq_2YLghZvIAWl0pFreOZVXdhT_mFF7fCColDp6vFcxbmOcbWlVLEs_H2TFCA1Yk_arljxKZm9vbynS2YQmGp562b828QuHoIn3scOzDQ0" height="200" width="auto" /><br><br>Del. Leonardo Leandro  / Campana 300 entre Larrazabal y Murature / Teléfonos: 4276-4709 / 4267-1333 /Mail: leoleandro@live.com.ar / Horarios de atención: Lunes a Viernes de 7 a 17 hs.  ¿Cómo llegar? Líneas de colectivos:<br>21 - 28 – 36 – 114 – 141 – 143 – 298 – 306 – 318 – 550 – 540 – 542 – 551 - 553]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/lXRJ9BHrBgRxBpuZ3Vu2OHUfRiuh10bjKJyvfZkpI2Zf_qtoG0jvlYE0_POqw1Cvm_NajVR8Y9Hn2YZBcrJvrR9pcef7V3G9VF9M91Npf7prxhB7hnrzgrRrvjOdwTLEjYmdC0-lHKnVXg7YBgaHxnDjFPdf6EQwPP2FwsYUn1px8TiaPlCt_fp63v4F_fuRT1kXUU-VXHEh3fZaa2j_jiKUTcsEEQXKYfV2CDJ9olSFECOZViIBiz-60CpEpZyaM9CJsmzZ-2y8HXk5UikciXoJaSuzsLnI5F0dpQ4_0pPE6xposRq10HsgARvIPZ2I5Y-9bz95_D9_-gh5IYruh32Fmwq_2YLghZvIAWl0pFreOZVXdhT_mFF7fCColDp6vFcxbmOcbWlVLEs_H2TFCA1Yk_arljxKZm9vbynS2YQmGp562b828QuHoIn3scOzDQ0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.440013,-34.704347,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delegación Municipal Santa Marta</name>
+				<description><![CDATA[Del. Hernán Tapari / Funciona en Del. Villa Albertina / Bayona 70, Ingeniero Budge, Lomas de Zamora / Teléfono:4273-8091 / Mail: hernantapari@hotmail.com / Horarios de atención: Lunes a Viernes de 8 a 18 hs. / ¿ Cómo llegar? Líneas de colectivos: 553 (B) -540(A)- 165(E)- 188 (C-D), 117]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<Point>
+					<coordinates>-58.460678,-34.740786,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delegación Municipal Temperley Oeste</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/qoMvoMubt5rgWk4OSt2JZMdPAc0Qb6Q02DgJRmXO0mO6bL4h5xZp51-HK5PPQjCH4jmrarNcmJtE7Mxc4FEzybEuCvHO2suU71irMwuH6r9g6qob-rA5qvgWBEOE8OZS4ZQnvfnttmRPyybpdC8JQCmnETHxRNFDJ_p_w7ApDkK5IUbnxmBF8UaqAxE0cJ1m7ZUGPvVZOzX3-7hg1SKyFGfa_JMNjjuWmXUvCKWTL5_dPas" height="200" width="auto" /><br><br>Del. Ariel Montero Senande / Avellaneda 126 / Teléfono: 2058-8088 / 2059-1415 / Mail: temperleyoeste2014@gmail.com / Horarios de atención: Lunes a Viernes de 8 a 16 hs. / ¿Cómo llegar? Líneas de colectivos:<br>51- 79- 160- 165- 177- 179- 239- 266- 271- 278- 299- 306- 318- 323- 338- 403- 435- 436- 547- 549- 561- 562- 564]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/qoMvoMubt5rgWk4OSt2JZMdPAc0Qb6Q02DgJRmXO0mO6bL4h5xZp51-HK5PPQjCH4jmrarNcmJtE7Mxc4FEzybEuCvHO2suU71irMwuH6r9g6qob-rA5qvgWBEOE8OZS4ZQnvfnttmRPyybpdC8JQCmnETHxRNFDJ_p_w7ApDkK5IUbnxmBF8UaqAxE0cJ1m7ZUGPvVZOzX3-7hg1SKyFGfa_JMNjjuWmXUvCKWTL5_dPas</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.39809,-34.774713,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delegación Municipal Villa Lamadrid</name>
+				<description><![CDATA[Del. Héctor Ontivero / Newton 4171 / Teléfono: 4273-0800 / Mail: hector.alfredo.ontivero@gmail.com / Horarios de atención: Lunes a Viernes de 8 a 17 hs. / ¿Cómo llegar? Líneas de colectivos: 165- 306-188-338]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<Point>
+					<coordinates>-58.473747,-34.730925,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delegación Municipal Llavallol Sur y Norte</name>
+				<description><![CDATA[Del. Juan Herrera Zamorano (llavallol Norte), Del.Miguel Caradente (llavallol Sur) / Antartida Argentina 1556 / Teléfonos: 4298-3632/5042 / Mail: delegmunicipaldelavallol@hotmail.com.ar/ juanhzamorano@hotmail.com / Horarios de atención: Lunes a Viernes de 8 a 16 hs. / ¿Cómo llegar? Líneas de Colectivos: 51,165, 318]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<Point>
+					<coordinates>-58.423874,-34.797626,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delegación Municipal Turdera</name>
+				<description><![CDATA[Del. Jonatan Labollita / H. Yrigoyen 11.555 / Teléfonos: 2064-7869 / 2077-3541 / Mail: jonatanlabollita@hotmail.com / Horarios de atención: Lunes a viernes de 8 a 16 hs. Sábados de 8 a 13 hs. /  ¿Cómo llegar? Líneas de Colectivos: 51,165, 318]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<Point>
+					<coordinates>-58.409132,-34.79059,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delegación Municipal Villa Albertina</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/BMVGFd26ay4uwlUw0tvHPiHRHPMxMyUGLmoi99Hmqf1GnNi6ELY1HswzklJLjWEcRYF62wxy_gxJbMLlUA2k5pjpib2O5Og9bxNtxQ8G5rCBgM680-RNpIzwFyGxxoFPGt-MtLRWIQCHBf-kXPam8gEJRcuSPtb5exzkBDzE6aDRmvCP0TfSxVV_V-ewiQinpmZ9-2GH2JaJJ7XdJaSjuRy36zP8Wo_cKCMtOaht8tUHEVsosuvCQt-3kiqLcG6uhkL5Y9ARsOnMFOaxPwgpk-WskB7OZmpXRaoyml0j-HhCEisAYuh9a0fHfW0fS6bBdJMNqLIkRlcz_rnAKLGyd50CDuHkY7sTVR9CZVOjN9uSUTd-9615lg32VhpEhzVyHithkyKmetEKYqYAVydlmctsVpXJSuwlGRGFnShkdNOp5C8ZpHDdipHsnwOtQq4OU4HmD_OgabPklbeRh1Ga5Fy8kXDuFBcnoE7dddWYEKQv8YFvjyA" height="200" width="auto" /><br><br>Del. Julio Canale / Bayona 70, Ingeniero Budge, Lomas de Zamora / Teléfonos: 4273-8091 / Mail: julioccanales@gmail.com/ Horarios de atención: Lunes a Viernes de 8 a 18 hs.  ¿Cómo llegar? Líneas de colectivos:  553-540-165-188-188-117]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/BMVGFd26ay4uwlUw0tvHPiHRHPMxMyUGLmoi99Hmqf1GnNi6ELY1HswzklJLjWEcRYF62wxy_gxJbMLlUA2k5pjpib2O5Og9bxNtxQ8G5rCBgM680-RNpIzwFyGxxoFPGt-MtLRWIQCHBf-kXPam8gEJRcuSPtb5exzkBDzE6aDRmvCP0TfSxVV_V-ewiQinpmZ9-2GH2JaJJ7XdJaSjuRy36zP8Wo_cKCMtOaht8tUHEVsosuvCQt-3kiqLcG6uhkL5Y9ARsOnMFOaxPwgpk-WskB7OZmpXRaoyml0j-HhCEisAYuh9a0fHfW0fS6bBdJMNqLIkRlcz_rnAKLGyd50CDuHkY7sTVR9CZVOjN9uSUTd-9615lg32VhpEhzVyHithkyKmetEKYqYAVydlmctsVpXJSuwlGRGFnShkdNOp5C8ZpHDdipHsnwOtQq4OU4HmD_OgabPklbeRh1Ga5Fy8kXDuFBcnoE7dddWYEKQv8YFvjyA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.460548,-34.740775,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delegación Municipal Banfield Oeste</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/saGzwY1Z3Smt8tSKqbBdtXwAsH8Oaro4xjDVV-mSNO2zSf4CEU_kXZrQiPMiTemugDF13NexpXNJYI6_Y6nj75bxXrkabtWHwtLQsBh0emrwVE4zYfS2G5Ce3gAcEdIQg9kG7yNQkefTwweN78wtcAxrnGlzffTvDb-fPC_R8JRYKQEWNk6SuI2i8A4iv7yfhUIFiKQl8QF-_ow-gvku3_0LnR-v5nWmW-ly9I6JqsCyD4U" height="200" width="auto" /><br><br>Del. Diego Salgado / H. Yrigoyen 7819 / Teléfonos: 4242- 2312/4202-2381 / 4202-6194/ Mail:delegacionbanfieldoeste@outlook.com /Horarios de atención: Lunes a Viernes de 8 a 17 hs. / ¿Cómo llegar? Líneas de colectivos: 165-(A-E) - 318(B-C)]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/saGzwY1Z3Smt8tSKqbBdtXwAsH8Oaro4xjDVV-mSNO2zSf4CEU_kXZrQiPMiTemugDF13NexpXNJYI6_Y6nj75bxXrkabtWHwtLQsBh0emrwVE4zYfS2G5Ce3gAcEdIQg9kG7yNQkefTwweN78wtcAxrnGlzffTvDb-fPC_R8JRYKQEWNk6SuI2i8A4iv7yfhUIFiKQl8QF-_ow-gvku3_0LnR-v5nWmW-ly9I6JqsCyD4U</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.399834,-34.746973,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delegación Municipal Parque Barón </name>
+				<description><![CDATA[Del. Fabricio Navarro / Iparraguirre y Juan XXIII / Teléfono:  4282-9837 / Mail: delegacionparquebaron@hotmail.com/ Horarios de atención: Lunes a Viernes de 8 a 19 hs. / ¿Cómo llegar? Líneas de colectivos: 188-20-552-543-165]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<Point>
+					<coordinates>-58.441858,-34.769996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delegación Municipal Villa Centenario</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/2W8-zY94V4x9OHygl4hAPXZ08M0G3aFcrv_4dBxcRlbVaYqEO48Kenhbk_t_Xh4DimkmvYQ_EVApGvdWVyyHfMqQailfXd0IsDBd5EVsuviFLVGtt0Zt2BzxSCJzksq_aK95WwNZiZHywAx1P_hJQCnEiJoYB9kx4CmnLOT5_DRLaMCjlWhP-ovj3SsNdUE_6vIfRq431ilwY9WsxJ8anKh5UNlMSr1uQh3kUpHtnw" height="200" width="auto" /><br><br>Del. Graciela Chavez / Plumerillo 535 / Teléfono: (no indica) /Mail: delegacente@gmail.com /Horarios de atención: Lunes a Viernes de 8 a 17 hs. / ¿Cómo llegar? Líneas de colectivos:  550 ( B-D)]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/2W8-zY94V4x9OHygl4hAPXZ08M0G3aFcrv_4dBxcRlbVaYqEO48Kenhbk_t_Xh4DimkmvYQ_EVApGvdWVyyHfMqQailfXd0IsDBd5EVsuviFLVGtt0Zt2BzxSCJzksq_aK95WwNZiZHywAx1P_hJQCnEiJoYB9kx4CmnLOT5_DRLaMCjlWhP-ovj3SsNdUE_6vIfRq431ilwY9WsxJ8anKh5UNlMSr1uQh3kUpHtnw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.426554,-34.723996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delegación Municipal Ingeniero Budge</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/m5sc4LvkellpWaJlEeC-EXXHrKxLPGXalwTgTzpDI_yLgwg2u7Vvjc7f6y4zo1Mii-_mucy_XLkMK0NDvH6tulX02K712VtYB5HOPXuIE86mcoXUCyoR0O84PCAy_ljYx316u_kcg2_V-RTFi9DMKZeXnJCgcOr_HNB088kGc0D7SAYLcrGFdY1vMwnBlID14PCUNHji6D6EGP_Mc6XF3a0jvVsyrEJUi2UWGcyUfnWuBoUEOkWwh0jb7s2OKTcbPBiui_xxCI_McJcFeNukNXsSaRrBoHzIxSfgUESQm6-qvqOjF4LrLNNP-wGLFEpMz4fRagTv579wsdnce9C7h4qcYMPLeJAbvbqhyse1ncPh1D_DpqbdPZvFKO41oYWjiG3QZhD4lg5Vv-ztb39NwCRpIAKDvh0GDkBvAsaycdKAcPM" height="200" width="auto" /><br><br>Del. Oscar Zabala / Campana y Guamini / Teléfono: 4273-8407 / Mail: oscarzab_3009@hotmail.com.ar / Horarios de atención:Lunes a Viernes de 8 a 16 hs. / ¿Cómo llegar? Líneas de colectivos: 551-542-550-188]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/m5sc4LvkellpWaJlEeC-EXXHrKxLPGXalwTgTzpDI_yLgwg2u7Vvjc7f6y4zo1Mii-_mucy_XLkMK0NDvH6tulX02K712VtYB5HOPXuIE86mcoXUCyoR0O84PCAy_ljYx316u_kcg2_V-RTFi9DMKZeXnJCgcOr_HNB088kGc0D7SAYLcrGFdY1vMwnBlID14PCUNHji6D6EGP_Mc6XF3a0jvVsyrEJUi2UWGcyUfnWuBoUEOkWwh0jb7s2OKTcbPBiui_xxCI_McJcFeNukNXsSaRrBoHzIxSfgUESQm6-qvqOjF4LrLNNP-wGLFEpMz4fRagTv579wsdnce9C7h4qcYMPLeJAbvbqhyse1ncPh1D_DpqbdPZvFKO41oYWjiG3QZhD4lg5Vv-ztb39NwCRpIAKDvh0GDkBvAsaycdKAcPM</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.456273,-34.713905,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delegación Municipal Lomas Oeste</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/1SGFb6HkfdukiiE_SOsWWjL71b2phBANnwPDYjWpYND-lAzdvrZJJZAOLiViSRUUlxLGtYpzuZTw4Zz9EkUDLXpj0cav2iz9yIcLqJ7_mEy5_c3td5FjLgcViYSeHzOfxFVmHRfe9APGu7xhonJ3aMzrH-OXsWwSnYwOiO11CAlXf4U5dEb-ruMOdRz8T4sxGR2MZepF3YUHH2xSBBAdh5FeVQdiaIo8JKpLdt1yow" height="200" width="auto" /><br><br>Del. Daniel Gago / Av. Las Heras 2299 / Teléfono: 4202-5546 /Mail: gabriel.gago@yahoo.com.ar / Horarios de atención: Lunes a Viernes de 8 a 14 hs. / ¿Cómo llegar? 551,552,553,544  (P)]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/1SGFb6HkfdukiiE_SOsWWjL71b2phBANnwPDYjWpYND-lAzdvrZJJZAOLiViSRUUlxLGtYpzuZTw4Zz9EkUDLXpj0cav2iz9yIcLqJ7_mEy5_c3td5FjLgcViYSeHzOfxFVmHRfe9APGu7xhonJ3aMzrH-OXsWwSnYwOiO11CAlXf4U5dEb-ruMOdRz8T4sxGR2MZepF3YUHH2xSBBAdh5FeVQdiaIo8JKpLdt1yow</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.425916,-34.746074,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delegación Municipal Lomas Microcentro</name>
+				<description><![CDATA[Del. Alberto Kahale / Funciona en Del. Banfield Oeste / Teléfono:2084-7181 / Mail: delegacionlomasmicrocentro@gmail.com / Horarios de atención: Lunes a Viernes de 8 a 17 hs. / ¿Cómo llegar? Líneas de colectivos: 165 (A-E) -318 (B-C)]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<Point>
+					<coordinates>-58.396282,-34.759666,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delegación Municipal San José Este</name>
+				<description><![CDATA[Del. Juan Aguilera / Caaguazú 670 / Teléfonos: 4260-0042 / Mail: juanaguilera.jf_69@hotmail.com / Horario de atención: Lunes a viernes de 8 a 18 hs/¿Cómo llegar? Líneas de colectivos: 564 (B) -266 (H) -33]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<Point>
+					<coordinates>-58.344531,-34.747892,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delegación Municipal Santa Catalina</name>
+				<description><![CDATA[Del. Fabiana Alfaya / Diagonal 61 1640 / Teléfono:4693-4258 / delegacionmunicipalstacatalina@gmail.com / Horario de atención: Lunes a Viernes de 8 a 16 hs. / ¿Cómo llegar? Líneas de colectivos: 165-306-338-544-338]]></description>
+				<styleUrl>#icon-503-62AF44</styleUrl>
+				<Point>
+					<coordinates>-58.478471,-34.740774,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Limite por delegación</name>
+			<Placemark>
+				<name>BANFIELD ESTE</name>
+				<description><![CDATA[Del. Mateo Gentile | Av. Alsina 562 | 4209-9074 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=4'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-62AF44-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.394458,-34.735776,0.0 -58.396068,-34.750287,0.0 -58.387098,-34.751627,0.0 -58.38418,-34.750111,0.0 -58.381326,-34.75376,0.0 -58.378687,-34.757233,0.0 -58.363795,-34.749494,0.0 -58.366778,-34.745544,0.0 -58.372014,-34.741295,0.0 -58.375146,-34.743058,0.0 -58.380425,-34.738668,0.0 -58.38624,-34.737098,0.0 -58.394458,-34.735776,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>BANFIELD OESTE</name>
+				<description><![CDATA[Del. Diego Salgado | H. Yrigoyen 7819 | 4242-2312 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=3'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-7C3592-1-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.413277,-34.732602,0.0 -58.426023,-34.73835,0.0 -58.425357,-34.741401,0.0 -58.424521,-34.746338,0.0 -58.396068,-34.750287,0.0 -58.394458,-34.735776,0.0 -58.413277,-34.732602,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>VILLA CENTENARIO</name>
+				<description><![CDATA[Del. Graciela Chávez | Plumerillo 535 |  1563904118 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=2'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-9FC3FF-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.444734,-34.72255,0.0 -58.430014,-34.742406,0.0 -58.425357,-34.74126,0.0 -58.426023,-34.738209,0.0 -58.413277,-34.732461,0.0 -58.428082,-34.713167,0.0 -58.444734,-34.72255,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>LOMAS OESTE</name>
+				<description><![CDATA[Del. Gabriel Gago | Las Heras 2299 | 4242-0223 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=7'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-F8971B-2-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.412676,-34.775284,0.0 -58.413491,-34.774261,0.0 -58.412976,-34.773874,0.0 -58.411903,-34.769044,0.0 -58.410487,-34.768409,0.0 -58.406067,-34.748877,0.0 -58.424521,-34.746338,0.0 -58.425207,-34.741401,0.0 -58.430142,-34.742565,0.0 -58.42967,-34.743658,0.0 -58.429885,-34.745527,0.0 -58.430142,-34.74662,0.0 -58.430314,-34.747748,0.0 -58.431387,-34.748595,0.0 -58.432632,-34.749406,0.0 -58.43452,-34.750322,0.0 -58.435807,-34.751098,0.0 -58.435979,-34.751698,0.0 -58.43555,-34.752473,0.0 -58.434906,-34.753531,0.0 -58.433833,-34.7548,0.0 -58.43246,-34.756246,0.0 -58.431344,-34.757586,0.0 -58.430786,-34.758291,0.0 -58.430142,-34.760019,0.0 -58.427997,-34.765272,0.0 -58.429413,-34.767317,0.0 -58.429756,-34.768586,0.0 -58.429756,-34.769326,0.0 -58.428941,-34.77056,0.0 -58.428254,-34.771582,0.0 -58.428082,-34.772816,0.0 -58.427825,-34.774296,0.0 -58.427653,-34.775072,0.0 -58.427353,-34.775812,0.0 -58.426323,-34.776835,0.0 -58.425164,-34.77754,0.0 -58.424778,-34.778527,0.0 -58.424601,-34.78162,0.0 -58.412676,-34.775284,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>LOMAS MICROCENTRO</name>
+				<description><![CDATA[Funciona en del Ban-Oeste | Alberto Kahale | 2084-7181 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=15'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-DB4436-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.397527,-34.767176,0.0 -58.39757,-34.764743,0.0 -58.39714,-34.760019,0.0 -58.396068,-34.750287,0.0 -58.406211,-34.748847,0.0 -58.406839,-34.752262,0.0 -58.407869,-34.756669,0.0 -58.410487,-34.768409,0.0 -58.411903,-34.769044,0.0 -58.411946,-34.769291,0.0 -58.412976,-34.773874,0.0 -58.413491,-34.774261,0.0 -58.412676,-34.775284,0.0 -58.410273,-34.773979,0.0 -58.397527,-34.767176,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SAN JOSÉ OESTE</name>
+				<description><![CDATA[Del. Roberto Torres | Eva Perón 2946 | 4264-1305 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=18'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-7C3592-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.377518,-34.756669,0.0 -58.373269,-34.763068,0.0 -58.372668,-34.764038,0.0 -58.371702,-34.76566,0.0 -58.371295,-34.766259,0.0 -58.37063,-34.765906,0.0 -58.366424,-34.771529,0.0 -58.364471,-34.774208,0.0 -58.358742,-34.771282,0.0 -58.36209,-34.767352,0.0 -58.353163,-34.762857,0.0 -58.356167,-34.758732,0.0 -58.356489,-34.758943,0.0 -58.358377,-34.756352,0.0 -58.359429,-34.755188,0.0 -58.360523,-34.753725,0.0 -58.36224,-34.751486,0.0 -58.363806,-34.749458,0.0 -58.377518,-34.756669,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>TEMPERLEY ESTE</name>
+				<description><![CDATA[Del. Fabián García | Eva Perón 1732 | 4264-7886 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=6'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-DB4436-2-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.397462,-34.76714,0.0 -58.394973,-34.79051,0.0 -58.378429,-34.781478,0.0 -58.372335,-34.778267,0.0 -58.3677,-34.775938,0.0 -58.364396,-34.774208,0.0 -58.370554,-34.765906,0.0 -58.371241,-34.766224,0.0 -58.377473,-34.756592,0.0 -58.397462,-34.76714,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>TEMPERLEY OESTE</name>
+				<description><![CDATA[Del. Ariel Montero Senande| Avellaneda 126 | 2058-8088 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=5'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-777777-4-130</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.397543,-34.767215,0.0 -58.423743,-34.781188,0.0 -58.423029,-34.782153,0.0 -58.42083,-34.785012,0.0 -58.411732,-34.785506,0.0 -58.407569,-34.786246,0.0 -58.404179,-34.786774,0.0 -58.401389,-34.786669,0.0 -58.399844,-34.786246,0.0 -58.3989,-34.785646,0.0 -58.397484,-34.78466,0.0 -58.396497,-34.783356,0.0 -58.39611,-34.78251,0.0 -58.395939,-34.781276,0.0 -58.39611,-34.780078,0.0 -58.397543,-34.767215,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>LLAVALLOL SUR</name>
+				<description><![CDATA[Del. Miguel caradente | Antartida Argentina 1556 | 4298-3632 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=21'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-62AF44-2-135</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.410144,-34.798678,0.0 -58.412633,-34.795488,0.0 -58.422268,-34.796176,0.0 -58.42834,-34.796598,0.0 -58.42864,-34.796228,0.0 -58.434327,-34.796528,0.0 -58.442438,-34.800193,0.0 -58.440442,-34.802924,0.0 -58.43982,-34.803875,0.0 -58.439176,-34.805179,0.0 -58.436236,-34.80902,0.0 -58.430293,-34.817089,0.0 -58.405166,-34.804563,0.0 -58.407805,-34.801074,0.0 -58.408502,-34.801072,0.0 -58.410144,-34.798678,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>LLAVALLOL NORTE</name>
+				<description><![CDATA[Del. Juan Zamorano | Funciona en Delegación Sur | 4298-3632 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=20'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-A7B5D7-3-163</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.442481,-34.800211,0.0 -58.43437,-34.796546,0.0 -58.431473,-34.796335,0.0 -58.428684,-34.796246,0.0 -58.428383,-34.796616,0.0 -58.412676,-34.795506,0.0 -58.414951,-34.792705,0.0 -58.420873,-34.784951,0.0 -58.423748,-34.78125,0.0 -58.424478,-34.781497,0.0 -58.431816,-34.784352,0.0 -58.433919,-34.783752,0.0 -58.435722,-34.782378,0.0 -58.437996,-34.779382,0.0 -58.44409,-34.77138,0.0 -58.458124,-34.778571,0.0 -58.456235,-34.782307,0.0 -58.452931,-34.786854,0.0 -58.447449,-34.794308,0.0 -58.442481,-34.800211,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>PARQUE BARÓN</name>
+				<description><![CDATA[Del. Fabricio Navarro | Juan XXIII esq Iparaguirre | 4282-9837 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=13'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-009D57-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.424778,-34.780113,0.0 -58.424821,-34.778879,0.0 -58.424778,-34.778527,0.0 -58.425164,-34.77754,0.0 -58.426323,-34.776835,0.0 -58.427353,-34.775812,0.0 -58.427653,-34.775072,0.0 -58.427825,-34.774296,0.0 -58.428297,-34.772146,0.0 -58.428254,-34.771582,0.0 -58.429284,-34.770278,0.0 -58.429756,-34.769326,0.0 -58.429756,-34.768586,0.0 -58.429627,-34.76774,0.0 -58.428984,-34.766612,0.0 -58.427997,-34.765272,0.0 -58.428855,-34.763509,0.0 -58.430572,-34.759067,0.0 -58.430786,-34.758291,0.0 -58.43246,-34.756246,0.0 -58.434348,-34.754342,0.0 -58.43585,-34.753672,0.0 -58.440228,-34.751768,0.0 -58.444133,-34.753637,0.0 -58.444948,-34.752509,0.0 -58.454604,-34.75748,0.0 -58.443189,-34.77271,0.0 -58.437867,-34.779619,0.0 -58.43585,-34.782439,0.0 -58.434048,-34.783814,0.0 -58.432417,-34.784237,0.0 -58.431945,-34.784413,0.0 -58.42716,-34.782633,0.0 -58.424601,-34.78162,0.0 -58.424778,-34.780113,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SANTA MARTA</name>
+				<description><![CDATA[Del. Hernán Tapari | Funciona en Delegación Villa Albertina | 4273-8091 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=14'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-0BA9CC-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.435035,-34.736111,0.0 -58.443489,-34.740766,0.0 -58.448725,-34.743728,0.0 -58.4516,-34.74528,0.0 -58.452716,-34.743834,0.0 -58.457737,-34.746585,0.0 -58.461256,-34.748348,0.0 -58.454604,-34.75748,0.0 -58.444948,-34.752509,0.0 -58.444133,-34.753637,0.0 -58.440228,-34.751768,0.0 -58.439283,-34.752086,0.0 -58.437481,-34.752967,0.0 -58.43585,-34.753672,0.0 -58.434348,-34.754342,0.0 -58.435378,-34.753073,0.0 -58.435979,-34.751698,0.0 -58.435764,-34.750851,0.0 -58.433618,-34.749794,0.0 -58.431988,-34.748912,0.0 -58.430314,-34.747748,0.0 -58.430185,-34.746338,0.0 -58.429928,-34.744786,0.0 -58.42967,-34.743658,0.0 -58.430057,-34.742776,0.0 -58.431215,-34.741295,0.0 -58.432717,-34.73925,0.0 -58.433919,-34.737628,0.0 -58.435035,-34.736111,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>VILLA LAMADRID</name>
+				<description><![CDATA[Del. Héctor Ontivero | Newton 4171 | 4273-0800 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=11'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-C6A4CF-4-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.471685,-34.736993,0.0 -58.469453,-34.735159,0.0 -58.461084,-34.730962,0.0 -58.468251,-34.722391,0.0 -58.47338,-34.718123,0.0 -58.483615,-34.727188,0.0 -58.471685,-34.736993,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SANTA CATALINA</name>
+				<description><![CDATA[Del. Fabiana Alfaya | Diagonal 61 1640 | 4693-4258 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=12'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-795046-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.458123,-34.753002,0.0 -58.461342,-34.748348,0.0 -58.462501,-34.7487,0.0 -58.47177,-34.736993,0.0 -58.483272,-34.727505,0.0 -58.483229,-34.729727,0.0 -58.483787,-34.730962,0.0 -58.484001,-34.732302,0.0 -58.4834,-34.733395,0.0 -58.483315,-34.733783,0.0 -58.483958,-34.733889,0.0 -58.484259,-34.733501,0.0 -58.487692,-34.733642,0.0 -58.488765,-34.73463,0.0 -58.489323,-34.734242,0.0 -58.489838,-34.734665,0.0 -58.490567,-34.733642,0.0 -58.491441,-34.734247,0.0 -58.492143,-34.734923,0.0 -58.488936,-34.739285,0.0 -58.483143,-34.747114,0.0 -58.479838,-34.751662,0.0 -58.473101,-34.760794,0.0 -58.466277,-34.757233,0.0 -58.458123,-34.753002,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>BUDGE</name>
+				<description><![CDATA[Del. Oscar Zabala | Campana entre Guaminí y Campoamor | 4273-8407 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=10'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-7CCFA9-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.460354,-34.73216,0.0 -58.454217,-34.728916,0.0 -58.451858,-34.727717,0.0 -58.449196,-34.726305,0.0 -58.444412,-34.723802,0.0 -58.446321,-34.721262,0.0 -58.448853,-34.718369,0.0 -58.450741,-34.716076,0.0 -58.451535,-34.714853,0.0 -58.452801,-34.713289,0.0 -58.454475,-34.711173,0.0 -58.456492,-34.709303,0.0 -58.458509,-34.707045,0.0 -58.460569,-34.705,0.0 -58.460612,-34.704822,0.0 -58.460783,-34.705246,0.0 -58.461985,-34.706728,0.0 -58.464088,-34.709056,0.0 -58.466491,-34.711525,0.0 -58.469839,-34.714877,0.0 -58.473465,-34.718122,0.0 -58.469023,-34.721755,0.0 -58.468336,-34.72239,0.0 -58.467178,-34.723731,0.0 -58.465676,-34.7256,0.0 -58.464775,-34.726729,0.0 -58.463573,-34.727998,0.0 -58.4622,-34.729586,0.0 -58.46117,-34.730961,0.0 -58.460354,-34.73216,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>FIORITO</name>
+				<description><![CDATA[Del. Leonardo Leandro| Campana 300 | 4267-1333 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=1'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-EE9C96-4-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.445077,-34.72292,0.0 -58.428082,-34.713308,0.0 -58.446598,-34.689064,0.0 -58.46014,-34.704858,0.0 -58.457265,-34.708386,0.0 -58.454175,-34.711526,0.0 -58.451171,-34.715336,0.0 -58.44821,-34.718969,0.0 -58.445077,-34.72292,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>TURDERA</name>
+				<description><![CDATA[Del. Jonathan Labollita | H. Yrigoyen 11530 | 2064-7869 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=16'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-FFDD5E-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.42083,-34.785012,0.0 -58.410079,-34.798642,0.0 -58.395038,-34.790546,0.0 -58.39611,-34.78251,0.0 -58.39654,-34.783637,0.0 -58.397484,-34.78466,0.0 -58.399136,-34.785814,0.0 -58.39921,-34.78588,0.0 -58.400036,-34.786317,0.0 -58.400957,-34.78659,0.0 -58.402516,-34.786739,0.0 -58.403503,-34.786766,0.0 -58.404415,-34.786757,0.0 -58.406453,-34.786352,0.0 -58.408599,-34.786105,0.0 -58.410916,-34.785682,0.0 -58.411732,-34.785506,0.0 -58.413019,-34.785541,0.0 -58.414736,-34.785435,0.0 -58.416882,-34.785294,0.0 -58.418856,-34.785188,0.0 -58.42083,-34.785012,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>VILLA ALBERTINA</name>
+				<description><![CDATA[Del Julio Canale | Bayona 70 | 4273-8091 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=9'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-FFDD5E-1-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.471685,-34.736993,0.0 -58.462501,-34.7487,0.0 -58.461256,-34.748348,0.0 -58.452716,-34.743834,0.0 -58.4516,-34.74528,0.0 -58.435035,-34.736111,0.0 -58.444412,-34.723802,0.0 -58.460354,-34.73216,0.0 -58.461084,-34.730962,0.0 -58.469453,-34.735159,0.0 -58.471685,-34.736993,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>LOMAS ESTE</name>
+				<description><![CDATA[Del. Juan Carlos Stigliano | Alsina 1970 | 2061-4013 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=8'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-9FC3FF-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.397489,-34.767123,0.0 -58.378687,-34.757233,0.0 -58.38418,-34.750111,0.0 -58.387098,-34.751627,0.0 -58.396068,-34.750287,0.0 -58.396754,-34.756458,0.0 -58.397055,-34.760442,0.0 -58.397269,-34.76231,0.0 -58.39757,-34.764743,0.0 -58.397489,-34.767123,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SAN JOSÉ ESTE</name>
+				<description><![CDATA[Del. Juan Aguilera | Caaguazú 670 | 4260-0042 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=17'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-EE9C96-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.353152,-34.762892,0.0 -58.336716,-34.754307,0.0 -58.342252,-34.746126,0.0 -58.343325,-34.742565,0.0 -58.34414,-34.742917,0.0 -58.344912,-34.741895,0.0 -58.344955,-34.740378,0.0 -58.345256,-34.738791,0.0 -58.345985,-34.738227,0.0 -58.347616,-34.739708,0.0 -58.356028,-34.740026,0.0 -58.366778,-34.745544,0.0 -58.363452,-34.749794,0.0 -58.360233,-34.754131,0.0 -58.356478,-34.758979,0.0 -58.356156,-34.758767,0.0 -58.353152,-34.762892,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-62AF44-normal'>
+			<IconStyle>
+				<color>ff44AF62</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-62AF44-highlight'>
+			<IconStyle>
+				<color>ff44AF62</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-62AF44'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-62AF44-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-62AF44-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-009D57-3-76-normal'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C579D00</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-009D57-3-76-highlight'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C579D00</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-009D57-3-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-009D57-3-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-009D57-3-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-0BA9CC-3-76-normal'>
+			<LineStyle>
+				<color>ffCCA90B</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CCCA90B</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-0BA9CC-3-76-highlight'>
+			<LineStyle>
+				<color>ffCCA90B</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CCCA90B</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-0BA9CC-3-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-0BA9CC-3-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-0BA9CC-3-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-62AF44-2-135-normal'>
+			<LineStyle>
+				<color>ff44AF62</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>8744AF62</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-62AF44-2-135-highlight'>
+			<LineStyle>
+				<color>ff44AF62</color>
+				<width>3.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>8744AF62</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-62AF44-2-135'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-62AF44-2-135-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-62AF44-2-135-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-62AF44-3-76-normal'>
+			<LineStyle>
+				<color>ff44AF62</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C44AF62</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-62AF44-3-76-highlight'>
+			<LineStyle>
+				<color>ff44AF62</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C44AF62</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-62AF44-3-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-62AF44-3-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-62AF44-3-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-777777-4-130-normal'>
+			<LineStyle>
+				<color>ff777777</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>82777777</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-777777-4-130-highlight'>
+			<LineStyle>
+				<color>ff777777</color>
+				<width>6.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>82777777</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-777777-4-130'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-777777-4-130-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-777777-4-130-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-795046-3-76-normal'>
+			<LineStyle>
+				<color>ff465079</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C465079</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-795046-3-76-highlight'>
+			<LineStyle>
+				<color>ff465079</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C465079</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-795046-3-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-795046-3-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-795046-3-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-7C3592-1-76-normal'>
+			<LineStyle>
+				<color>ff92357C</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C92357C</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-7C3592-1-76-highlight'>
+			<LineStyle>
+				<color>ff92357C</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C92357C</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-7C3592-1-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-7C3592-1-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-7C3592-1-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-7C3592-3-76-normal'>
+			<LineStyle>
+				<color>ff92357C</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C92357C</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-7C3592-3-76-highlight'>
+			<LineStyle>
+				<color>ff92357C</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C92357C</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-7C3592-3-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-7C3592-3-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-7C3592-3-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-7CCFA9-3-76-normal'>
+			<LineStyle>
+				<color>ffA9CF7C</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CA9CF7C</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-7CCFA9-3-76-highlight'>
+			<LineStyle>
+				<color>ffA9CF7C</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CA9CF7C</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-7CCFA9-3-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-7CCFA9-3-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-7CCFA9-3-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-9FC3FF-3-76-normal'>
+			<LineStyle>
+				<color>ffFFC39F</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CFFC39F</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-9FC3FF-3-76-highlight'>
+			<LineStyle>
+				<color>ffFFC39F</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CFFC39F</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-9FC3FF-3-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-9FC3FF-3-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-9FC3FF-3-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-A7B5D7-3-163-normal'>
+			<LineStyle>
+				<color>ffD7B5A7</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>A3D7B5A7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-A7B5D7-3-163-highlight'>
+			<LineStyle>
+				<color>ffD7B5A7</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>A3D7B5A7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-A7B5D7-3-163'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-A7B5D7-3-163-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-A7B5D7-3-163-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-C6A4CF-4-76-normal'>
+			<LineStyle>
+				<color>ffCFA4C6</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CCFA4C6</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-C6A4CF-4-76-highlight'>
+			<LineStyle>
+				<color>ffCFA4C6</color>
+				<width>6.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CCFA4C6</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-C6A4CF-4-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-C6A4CF-4-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-C6A4CF-4-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-DB4436-2-76-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C3644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-DB4436-2-76-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>3.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C3644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-DB4436-2-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-DB4436-2-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-DB4436-2-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-DB4436-3-76-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C3644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-DB4436-3-76-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C3644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-DB4436-3-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-DB4436-3-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-DB4436-3-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-EE9C96-3-76-normal'>
+			<LineStyle>
+				<color>ff969CEE</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C969CEE</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-EE9C96-3-76-highlight'>
+			<LineStyle>
+				<color>ff969CEE</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C969CEE</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-EE9C96-3-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-EE9C96-3-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-EE9C96-3-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-EE9C96-4-76-normal'>
+			<LineStyle>
+				<color>ff969CEE</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C969CEE</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-EE9C96-4-76-highlight'>
+			<LineStyle>
+				<color>ff969CEE</color>
+				<width>6.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C969CEE</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-EE9C96-4-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-EE9C96-4-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-EE9C96-4-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-F8971B-2-76-normal'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C1B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-F8971B-2-76-highlight'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>3.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C1B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-F8971B-2-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-F8971B-2-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-F8971B-2-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FFDD5E-1-76-normal'>
+			<LineStyle>
+				<color>ff5EDDFF</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C5EDDFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-FFDD5E-1-76-highlight'>
+			<LineStyle>
+				<color>ff5EDDFF</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C5EDDFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-FFDD5E-1-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FFDD5E-1-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FFDD5E-1-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FFDD5E-3-76-normal'>
+			<LineStyle>
+				<color>ff5EDDFF</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C5EDDFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-FFDD5E-3-76-highlight'>
+			<LineStyle>
+				<color>ff5EDDFF</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C5EDDFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-FFDD5E-3-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FFDD5E-3-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FFDD5E-3-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

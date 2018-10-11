@@ -1,0 +1,651 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Delegaciones</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Delegaciones</name>
+			<Placemark>
+				<name>Villa Fiorito</name>
+				<description><![CDATA[Descripción: Descripción: <br>Delegado: Leonardo Leandro<br>Delegacion: Campana e/ Larrazabal y Murature<br>Telefono: 4276-4709<br>Delegado: Leonardo Leandro<br>Delegacion: Campana e/ Larrazabal y Murature<br>Telefono: 4276-4709]]></description>
+				<styleUrl>#poly-B090CA-2-12</styleUrl>
+				<ExtendedData>
+					<Data name='Descripción'>
+						<value>Descripción: 
+Delegado: Leonardo Leandro
+Delegacion: Campana e/ Larrazabal y Murature
+Telefono: 4276-4709</value>
+					</Data>
+					<Data name='Delegado'>
+						<value>Leonardo Leandro</value>
+					</Data>
+					<Data name='Delegacion'>
+						<value>Campana e/ Larrazabal y Murature</value>
+					</Data>
+					<Data name='Telefono'>
+						<value>4276-4709</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.44482000000001,-34.72258500000001,0.0 -58.427825000000006,-34.71350199999999,0.0 -58.446772,-34.68935100000001,0.0 -58.46052600000001,-34.705211,0.0 -58.458209,-34.707293,0.0 -58.456149,-34.70877399999999,0.0 -58.44482000000001,-34.72258500000001,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Villa Centenario</name>
+				<description><![CDATA[Descripción: Descripción: <br>Delegado: Graciela Chavez<br>Delegacion: Plumeriollo 535<br>Telefono:<br>Delegado: Graciela Chavez<br>Delegacion: Plumeriollo 535<br>Telefono: ]]></description>
+				<styleUrl>#poly-B090CA-2-12</styleUrl>
+				<ExtendedData>
+					<Data name='Descripción'>
+						<value>Descripción: 
+Delegado: Graciela Chavez
+Delegacion: Plumeriollo 535
+Telefono:</value>
+					</Data>
+					<Data name='Delegado'>
+						<value>Graciela Chavez</value>
+					</Data>
+					<Data name='Delegacion'>
+						<value>Plumeriollo 535</value>
+					</Data>
+					<Data name='Telefono'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.42975599999999,-34.743094,0.0 -58.42756800000001,-34.741436,0.0 -58.425293,-34.741418,0.0 -58.42559299999999,-34.739884,0.0 -58.426237,-34.738932,0.0 -58.426108,-34.73843900000001,0.0 -58.413362000000006,-34.732831,0.0 -58.427825000000006,-34.71350199999999,0.0 -58.44482000000001,-34.72258500000001,0.0 -58.434647999999996,-34.736182,0.0 -58.433361,-34.73858,0.0 -58.42975599999999,-34.743094,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Banfield Oeste</name>
+				<description><![CDATA[Descripción: Descripción: <br>Delegado: Leandro Yerba<br>Delegacion: H. Yrigoyen 7819<br>Telefono: 4202-2381<br>Delegado: Leandro Yerba<br>Delegacion: H. Yrigoyen 7819<br>Telefono: 4202-2381]]></description>
+				<styleUrl>#poly-B090CA-2-12</styleUrl>
+				<ExtendedData>
+					<Data name='Descripción'>
+						<value>Descripción: 
+Delegado: Leandro Yerba
+Delegacion: H. Yrigoyen 7819
+Telefono: 4202-2381</value>
+					</Data>
+					<Data name='Delegado'>
+						<value>Leandro Yerba</value>
+					</Data>
+					<Data name='Delegacion'>
+						<value>H. Yrigoyen 7819</value>
+					</Data>
+					<Data name='Telefono'>
+						<value>4202-2381</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.425293,-34.741418,0.0 -58.41881300000001,-34.74210600000001,0.0 -58.395681,-34.74556199999999,0.0 -58.393964999999994,-34.736005,0.0 -58.413362000000006,-34.732831,0.0 -58.426108,-34.73843900000001,0.0 -58.426237,-34.738932,0.0 -58.42559299999999,-34.739884,0.0 -58.425293,-34.741418,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Banfield Este</name>
+				<description><![CDATA[Descripción: Descripción: <br>Delegado: Javier ferretti<br>Delegacion: Alsina 562<br>Telefono: 4202-9074<br>Delegado: Javier ferretti<br>Delegacion: Alsina 562<br>Telefono: 4202-9074]]></description>
+				<styleUrl>#poly-B090CA-2-12</styleUrl>
+				<ExtendedData>
+					<Data name='Descripción'>
+						<value>Descripción: 
+Delegado: Javier ferretti
+Delegacion: Alsina 562
+Telefono: 4202-9074</value>
+					</Data>
+					<Data name='Delegado'>
+						<value>Javier ferretti</value>
+					</Data>
+					<Data name='Delegacion'>
+						<value>Alsina 562</value>
+					</Data>
+					<Data name='Telefono'>
+						<value>4202-9074</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.39611000000001,-34.75035799999999,0.0 -58.38692700000001,-34.75161,0.0 -58.384223,-34.75028700000001,0.0 -58.378687000000006,-34.757338999999995,0.0 -58.36383800000001,-34.749476,0.0 -58.36682100000001,-34.745597,0.0 -58.372035000000004,-34.74140100000001,0.0 -58.375038999999994,-34.743058,0.0 -58.380318,-34.738897,0.0 -58.38619700000001,-34.737134,0.0 -58.393964999999994,-34.736005,0.0 -58.39611000000001,-34.75035799999999,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>San Jose Oeste</name>
+				<description><![CDATA[Descripción: Descripción: <br>Delegado: <br>Delegacion: <br>Telefono:<br>Delegado: <br>Delegacion: <br>Telefono: ]]></description>
+				<styleUrl>#poly-B090CA-2-12</styleUrl>
+				<ExtendedData>
+					<Data name='Descripción'>
+						<value>Descripción: 
+Delegado: 
+Delegacion: 
+Telefono:</value>
+					</Data>
+					<Data name='Delegado'>
+						<value></value>
+					</Data>
+					<Data name='Delegacion'>
+						<value></value>
+					</Data>
+					<Data name='Telefono'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.36383800000001,-34.749476,0.0 -58.377356,-34.756599,0.0 -58.371306,-34.766012,0.0 -58.37182000000001,-34.76657600000001,0.0 -58.36546899999999,-34.774896000000005,0.0 -58.358602000000005,-34.771476,0.0 -58.362100000000005,-34.76744,0.0 -58.353108999999996,-34.76291,0.0 -58.356350000000006,-34.758838,0.0 -58.357916,-34.756775,0.0 -58.359396,-34.755232,0.0 -58.36383800000001,-34.749476,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Temperley Este</name>
+				<description><![CDATA[Descripción: Descripción: <br>Delegado: <br>Delegacion: <br>Telefono:<br>Delegado: <br>Delegacion: <br>Telefono: ]]></description>
+				<styleUrl>#poly-B090CA-2-12</styleUrl>
+				<ExtendedData>
+					<Data name='Descripción'>
+						<value>Descripción: 
+Delegado: 
+Delegacion: 
+Telefono:</value>
+					</Data>
+					<Data name='Delegado'>
+						<value></value>
+					</Data>
+					<Data name='Delegacion'>
+						<value></value>
+					</Data>
+					<Data name='Telefono'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.377356,-34.756599,0.0 -58.39754800000001,-34.767105,0.0 -58.396088999999996,-34.779584,0.0 -58.395982,-34.785259,0.0 -58.394909000000006,-34.788924,0.0 -58.39520900000001,-34.790599,0.0 -58.36546899999999,-34.774896000000005,0.0 -58.37182000000001,-34.76657600000001,0.0 -58.371306,-34.766012,0.0 -58.377356,-34.756599,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Temperley Oeste</name>
+				<description><![CDATA[Descripción: Descripción: <br>Delegado: <br>Delegacion: <br>Telefono:<br>Delegado: <br>Delegacion: <br>Telefono: ]]></description>
+				<styleUrl>#poly-B090CA-2-12</styleUrl>
+				<ExtendedData>
+					<Data name='Descripción'>
+						<value>Descripción: 
+Delegado: 
+Delegacion: 
+Telefono:</value>
+					</Data>
+					<Data name='Delegado'>
+						<value></value>
+					</Data>
+					<Data name='Delegacion'>
+						<value></value>
+					</Data>
+					<Data name='Telefono'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.396088999999996,-34.779584,0.0 -58.397462,-34.767105,0.0 -58.42379100000001,-34.781223000000004,0.0 -58.420959,-34.784871,0.0 -58.407998,-34.785928,0.0 -58.405037,-34.78681,0.0 -58.401303000000006,-34.786739,0.0 -58.398342,-34.78568200000001,0.0 -58.39688300000001,-34.784554,0.0 -58.396025,-34.78275599999999,0.0 -58.396088999999996,-34.779584,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Lomas Este</name>
+				<description><![CDATA[Descripción: Descripción: <br>Delegado: <br>Delegacion: <br>Telefono:<br>Delegado: <br>Delegacion: <br>Telefono: ]]></description>
+				<styleUrl>#poly-B090CA-2-12</styleUrl>
+				<ExtendedData>
+					<Data name='Descripción'>
+						<value>Descripción: 
+Delegado: 
+Delegacion: 
+Telefono:</value>
+					</Data>
+					<Data name='Delegado'>
+						<value></value>
+					</Data>
+					<Data name='Delegacion'>
+						<value></value>
+					</Data>
+					<Data name='Telefono'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.39611000000001,-34.75035799999999,0.0 -58.39735499999999,-34.762134,0.0 -58.397462,-34.767105,0.0 -58.378687000000006,-34.757338999999995,0.0 -58.384223,-34.75028700000001,0.0 -58.38692700000001,-34.75161,0.0 -58.39611000000001,-34.75035799999999,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Lomas Oeste</name>
+				<description><![CDATA[Descripción: Descripción: <br>Delegado: <br>Delegacion: <br>Telefono:<br>Delegado: <br>Delegacion: <br>Telefono: ]]></description>
+				<styleUrl>#poly-B090CA-2-12</styleUrl>
+				<ExtendedData>
+					<Data name='Descripción'>
+						<value>Descripción: 
+Delegado: 
+Delegacion: 
+Telefono:</value>
+					</Data>
+					<Data name='Delegado'>
+						<value></value>
+					</Data>
+					<Data name='Delegacion'>
+						<value></value>
+					</Data>
+					<Data name='Telefono'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.42452099999999,-34.781593,0.0 -58.41259,-34.775301,0.0 -58.413325,-34.774294,0.0 -58.412772,-34.774045,0.0 -58.411925,-34.769247,0.0 -58.41023,-34.768251,0.0 -58.405139,-34.74399300000001,0.0 -58.425293,-34.741418,0.0 -58.42756800000001,-34.741436,0.0 -58.42975599999999,-34.743094,0.0 -58.429896,-34.745624,0.0 -58.430786,-34.748066,0.0 -58.43421899999999,-34.750146,0.0 -58.435507,-34.750851,0.0 -58.435743,-34.752033,0.0 -58.434605999999995,-34.753813,0.0 -58.432846,-34.755612,0.0 -58.431215,-34.757833,0.0 -58.427782,-34.765237,0.0 -58.428383,-34.765871,0.0 -58.429584,-34.767634,0.0 -58.429798999999996,-34.76925500000001,0.0 -58.428211000000005,-34.771441,0.0 -58.42825400000001,-34.773098,0.0 -58.42795400000001,-34.774684,0.0 -58.42692400000001,-34.776306,0.0 -58.425808,-34.777187,0.0 -58.42490699999999,-34.777822,0.0 -58.424820999999994,-34.779372,0.0 -58.42452099999999,-34.781593,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Lomas Micro Centro</name>
+				<description><![CDATA[Descripción: Descripción: <br>Delegado: <br>Delegacion: <br>Telefono:<br>Delegado: <br>Delegacion: <br>Telefono: ]]></description>
+				<styleUrl>#poly-B090CA-2-12</styleUrl>
+				<ExtendedData>
+					<Data name='Descripción'>
+						<value>Descripción: 
+Delegado: 
+Delegacion: 
+Telefono:</value>
+					</Data>
+					<Data name='Delegado'>
+						<value></value>
+					</Data>
+					<Data name='Delegacion'>
+						<value></value>
+					</Data>
+					<Data name='Telefono'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.405139,-34.74399300000001,0.0 -58.41023,-34.768251,0.0 -58.411925,-34.769247,0.0 -58.412772,-34.774045,0.0 -58.413325,-34.774294,0.0 -58.41259,-34.775301,0.0 -58.397462,-34.767105,0.0 -58.39735499999999,-34.762134,0.0 -58.395681,-34.74556199999999,0.0 -58.405139,-34.74399300000001,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Turdera</name>
+				<description><![CDATA[Descripción: Descripción: <br>Delegado: <br>Delegacion: <br>Telefono:<br>Delegado: <br>Delegacion: <br>Telefono: ]]></description>
+				<styleUrl>#poly-B090CA-2-12</styleUrl>
+				<ExtendedData>
+					<Data name='Descripción'>
+						<value>Descripción: 
+Delegado: 
+Delegacion: 
+Telefono:</value>
+					</Data>
+					<Data name='Delegado'>
+						<value></value>
+					</Data>
+					<Data name='Delegacion'>
+						<value></value>
+					</Data>
+					<Data name='Telefono'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.420959,-34.784871,0.0 -58.417997,-34.78903,0.0 -58.416495,-34.79044,0.0 -58.41023,-34.798828,0.0 -58.39520900000001,-34.790599,0.0 -58.394909000000006,-34.788924,0.0 -58.395982,-34.785259,0.0 -58.396025,-34.78275599999999,0.0 -58.39688300000001,-34.784554,0.0 -58.398342,-34.78568200000001,0.0 -58.401303000000006,-34.786739,0.0 -58.405037,-34.78681,0.0 -58.407998,-34.785928,0.0 -58.420959,-34.784871,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Ing Budge</name>
+				<description><![CDATA[Descripción: Descripción: <br>Delegado: Oscar Zabala<br><br>Delegacion: Campana y Guamini<br><br>Telefono: 42738407<br>Delegado: Oscar Zabala<br>Delegacion: Campana y Guamini<br>Telefono: 42738407]]></description>
+				<styleUrl>#poly-B090CA-2-12</styleUrl>
+				<ExtendedData>
+					<Data name='Descripción'>
+						<value>Descripción: 
+Delegado: Oscar Zabala
+
+Delegacion: Campana y Guamini
+
+Telefono: 42738407</value>
+					</Data>
+					<Data name='Delegado'>
+						<value>Oscar Zabala</value>
+					</Data>
+					<Data name='Delegacion'>
+						<value>Campana y Guamini</value>
+					</Data>
+					<Data name='Telefono'>
+						<value>42738407</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.470654999999994,-34.71582999999999,0.0 -58.469195,-34.717241,0.0 -58.468809,-34.718722,0.0 -58.467307000000005,-34.719357,0.0 -58.466277,-34.720345,0.0 -58.466191,-34.721192,0.0 -58.468037,-34.72225,0.0 -58.467951000000006,-34.722955,0.0 -58.460441,-34.73216099999999,0.0 -58.444262,-34.723802,0.0 -58.45580600000001,-34.70888,0.0 -58.46052600000001,-34.705211,0.0 -58.470654999999994,-34.71582999999999,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Villa Lamadrid</name>
+				<description><![CDATA[Descripción: Descripción: <br>Delegado: Julio Riquelme<br><br>Delegacion: Newton 4171<br><br>Telefono: 42855333 y 42730800<br><br>Delegado: Julio Riquelme<br>Delegacion: Newton 4171<br>Telefono: 42855333 y 42730800]]></description>
+				<styleUrl>#poly-B090CA-2-12</styleUrl>
+				<ExtendedData>
+					<Data name='Descripción'>
+						<value>Descripción: 
+Delegado: Julio Riquelme
+
+Delegacion: Newton 4171
+
+Telefono: 42855333 y 42730800
+</value>
+					</Data>
+					<Data name='Delegado'>
+						<value>Julio Riquelme</value>
+					</Data>
+					<Data name='Delegacion'>
+						<value>Newton 4171</value>
+					</Data>
+					<Data name='Telefono'>
+						<value>42855333 y 42730800</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.483272,-34.72736400000001,0.0 -58.475161,-34.73329,0.0 -58.471384,-34.736464,0.0 -58.461299,-34.730997,0.0 -58.467951000000006,-34.722955,0.0 -58.468037,-34.72225,0.0 -58.466191,-34.721192,0.0 -58.466277,-34.720345,0.0 -58.467307000000005,-34.719357,0.0 -58.468809,-34.718722,0.0 -58.469195,-34.717241,0.0 -58.470654999999994,-34.71582999999999,0.0 -58.483272,-34.72736400000001,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Santa Catalina</name>
+				<description><![CDATA[Descripción: Descripción: <br>Delegado: Alfaya Fabiana<br><br>Delegacion: Diag 61<br><br>Telefono: 46935009<br>Delegado: Alfaya Fabiana<br>Delegacion: Diag 61<br>Telefono: 46935009]]></description>
+				<styleUrl>#poly-B090CA-2-12</styleUrl>
+				<ExtendedData>
+					<Data name='Descripción'>
+						<value>Descripción: 
+Delegado: Alfaya Fabiana
+
+Delegacion: Diag 61
+
+Telefono: 46935009</value>
+					</Data>
+					<Data name='Delegado'>
+						<value>Alfaya Fabiana</value>
+					</Data>
+					<Data name='Delegacion'>
+						<value>Diag 61</value>
+					</Data>
+					<Data name='Telefono'>
+						<value>46935009</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.487263000000006,-34.729692,0.0 -58.487778000000006,-34.72965700000001,0.0 -58.491597000000006,-34.728352,0.0 -58.493185,-34.726906,0.0 -58.493829,-34.72493,0.0 -58.497648,-34.723731,0.0 -58.501039,-34.72267300000001,0.0 -58.492584,-34.734418,0.0 -58.47271400000001,-34.760618,0.0 -58.457952,-34.752896,0.0 -58.469024,-34.738686,0.0 -58.471384,-34.736464,0.0 -58.475161,-34.73329,0.0 -58.483272,-34.72736400000001,0.0 -58.486791,-34.730433,0.0 -58.487263000000006,-34.729692,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Sta Marta</name>
+				<description><![CDATA[Descripción: Descripción: <br>Delegado: <br>Delegacion: <br>Telefono:<br>Delegado: <br>Delegacion: <br>Telefono: ]]></description>
+				<styleUrl>#poly-B090CA-2-12</styleUrl>
+				<ExtendedData>
+					<Data name='Descripción'>
+						<value>Descripción: 
+Delegado: 
+Delegacion: 
+Telefono:</value>
+					</Data>
+					<Data name='Delegado'>
+						<value></value>
+					</Data>
+					<Data name='Delegacion'>
+						<value></value>
+					</Data>
+					<Data name='Telefono'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.43344700000001,-34.754977,0.0 -58.435743,-34.752033,0.0 -58.435507,-34.750746,0.0 -58.430786,-34.748066,0.0 -58.430057,-34.745915,0.0 -58.42975599999999,-34.743094,0.0 -58.43293200000001,-34.739109,0.0 -58.434647999999996,-34.736182,0.0 -58.452276,-34.745765,0.0 -58.453397,-34.744447,0.0 -58.461428,-34.748559,0.0 -58.454218000000004,-34.75748,0.0 -58.44640700000001,-34.75332,0.0 -58.44542,-34.754483,0.0 -58.44014200000001,-34.75198,0.0 -58.435464,-34.75441299999999,0.0 -58.43344700000001,-34.754977,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Parque Baron</name>
+				<description><![CDATA[Descripción: Descripción: <br>Delegado: Fabricio Navarro<br><br>Delegacion: Juan XXIII 597<br><br>Telefono: 42829837<br>Delegado: Fabricio Navarro<br>Delegacion: Juan XXIII 597<br>Telefono: 42829837]]></description>
+				<styleUrl>#poly-B090CA-2-12</styleUrl>
+				<ExtendedData>
+					<Data name='Descripción'>
+						<value>Descripción: 
+Delegado: Fabricio Navarro
+
+Delegacion: Juan XXIII 597
+
+Telefono: 42829837</value>
+					</Data>
+					<Data name='Delegado'>
+						<value>Fabricio Navarro</value>
+					</Data>
+					<Data name='Delegacion'>
+						<value>Juan XXIII 597</value>
+					</Data>
+					<Data name='Telefono'>
+						<value>42829837</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.454218000000004,-34.75748,0.0 -58.435249,-34.782545,0.0 -58.432159000000006,-34.783179,0.0 -58.428426,-34.783003,0.0 -58.42452099999999,-34.781593,0.0 -58.42490699999999,-34.777822,0.0 -58.42692400000001,-34.776306,0.0 -58.42795400000001,-34.774684,0.0 -58.428211000000005,-34.771441,0.0 -58.429798999999996,-34.76925500000001,0.0 -58.429584,-34.767634,0.0 -58.427782,-34.765237,0.0 -58.431215,-34.757833,0.0 -58.43344700000001,-34.754977,0.0 -58.435464,-34.75441299999999,0.0 -58.44014200000001,-34.75198,0.0 -58.44542,-34.754483,0.0 -58.44640700000001,-34.75332,0.0 -58.454218000000004,-34.75748,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Llavallol Norte</name>
+				<description><![CDATA[Descripción: Descripción: <br>Delegado: <br>Delegacion: <br>Telefono:<br>Delegado: <br>Delegacion: <br>Telefono: ]]></description>
+				<styleUrl>#poly-B090CA-2-12</styleUrl>
+				<ExtendedData>
+					<Data name='Descripción'>
+						<value>Descripción: 
+Delegado: 
+Delegacion: 
+Telefono:</value>
+					</Data>
+					<Data name='Delegado'>
+						<value></value>
+					</Data>
+					<Data name='Delegacion'>
+						<value></value>
+					</Data>
+					<Data name='Telefono'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.421731,-34.796537,0.0 -58.412681,-34.795598,0.0 -58.416495,-34.79044,0.0 -58.417997,-34.78903,0.0 -58.42379100000001,-34.781223000000004,0.0 -58.428426,-34.783003,0.0 -58.432159000000006,-34.783179,0.0 -58.435249,-34.782545,0.0 -58.443768000000006,-34.771159,0.0 -58.458467,-34.77887900000001,0.0 -58.44966900000001,-34.79118,0.0 -58.441493,-34.80168199999999,0.0 -58.43585000000001,-34.798792,0.0 -58.434906,-34.798088,0.0 -58.43370399999999,-34.797651,0.0 -58.42876900000001,-34.797524,0.0 -58.421731,-34.796537,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Llavallol Sur</name>
+				<description><![CDATA[Descripción: Descripción: <br>Delegado: <br>Delegacion: <br>Telefono:<br>Delegado: <br>Delegacion: <br>Telefono: ]]></description>
+				<styleUrl>#poly-B090CA-2-12</styleUrl>
+				<ExtendedData>
+					<Data name='Descripción'>
+						<value>Descripción: 
+Delegado: 
+Delegacion: 
+Telefono:</value>
+					</Data>
+					<Data name='Delegado'>
+						<value></value>
+					</Data>
+					<Data name='Delegacion'>
+						<value></value>
+					</Data>
+					<Data name='Telefono'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.412681,-34.795598,0.0 -58.428383,-34.797453,0.0 -58.43370399999999,-34.797651,0.0 -58.441493,-34.80168199999999,0.0 -58.430357,-34.817291000000004,0.0 -58.416301,-34.810157,0.0 -58.404951000000004,-34.804818,0.0 -58.40847,-34.801012,0.0 -58.412681,-34.795598,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Villa Albertina</name>
+				<description><![CDATA[Descripción: Descripción: <br>Delegado: <br>Delegacion: <br>Telefono:<br>Delegado: <br>Delegacion: <br>Telefono: ]]></description>
+				<styleUrl>#poly-B090CA-2-12</styleUrl>
+				<ExtendedData>
+					<Data name='Descripción'>
+						<value>Descripción: 
+Delegado: 
+Delegacion: 
+Telefono:</value>
+					</Data>
+					<Data name='Delegado'>
+						<value></value>
+					</Data>
+					<Data name='Delegacion'>
+						<value></value>
+					</Data>
+					<Data name='Telefono'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.444519,-34.723484,0.0 -58.460441,-34.73216099999999,0.0 -58.461299,-34.730997,0.0 -58.471384,-34.736464,0.0 -58.46949600000001,-34.738227,0.0 -58.461428,-34.748559,0.0 -58.453397,-34.744447,0.0 -58.452276,-34.745765,0.0 -58.43452,-34.735829,0.0 -58.444519,-34.723484,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>San Jose Este</name>
+				<description><![CDATA[Descripción: Descripción: <br>Delegado: <br>Delegacion: <br>Telefono:<br>Delegado: <br>Delegacion: <br>Telefono: ]]></description>
+				<styleUrl>#poly-B090CA-2-12</styleUrl>
+				<ExtendedData>
+					<Data name='Descripción'>
+						<value>Descripción: 
+Delegado: 
+Delegacion: 
+Telefono:</value>
+					</Data>
+					<Data name='Delegado'>
+						<value></value>
+					</Data>
+					<Data name='Delegacion'>
+						<value></value>
+					</Data>
+					<Data name='Telefono'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.36682100000001,-34.745597,0.0 -58.353108999999996,-34.76291,0.0 -58.33675900000001,-34.754342,0.0 -58.344827,-34.741718,0.0 -58.344612000000005,-34.739638,0.0 -58.345127000000005,-34.739003,0.0 -58.34594200000001,-34.738386,0.0 -58.347675,-34.739867,0.0 -58.356178,-34.740087,0.0 -58.36682100000001,-34.745597,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Style id='poly-B090CA-2-12-normal'>
+			<LineStyle>
+				<color>ffCA90B0</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color> CCA90B0</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-B090CA-2-12-highlight'>
+			<LineStyle>
+				<color>ffCA90B0</color>
+				<width>3.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color> CCA90B0</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-B090CA-2-12'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-B090CA-2-12-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-B090CA-2-12-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

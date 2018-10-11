@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Fiscalización Electrónica Vehicular</name>
+    <description>Ubicación y posición de dispositivos para la fiscalización electrónica de velocidad, pase de semáforo en rojo y estacionamiento dentro de los límites del Municipio de Lomas de Zamora.</description>
+    <Style id="icon-1535-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.lomasdezamora.gov.ar/images/iconos/camara-red.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1535-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.lomasdezamora.gov.ar/images/iconos/camara-red.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1535-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1535-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1535-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1535-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.lomasdezamora.gov.ar/images/iconos/camara-green.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1535-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.lomasdezamora.gov.ar/images/iconos/camara-green.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1535-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1535-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1535-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0288D1-3713-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>3.713</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0288D1-3713-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>5.5695</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-0288D1-3713">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0288D1-3713-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0288D1-3713-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0288D1-3713-nodesc-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>3.713</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-0288D1-3713-nodesc-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>5.5695</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-0288D1-3713-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0288D1-3713-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0288D1-3713-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0288D1-4100-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>4.1</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0288D1-4100-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>6.15</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-0288D1-4100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0288D1-4100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0288D1-4100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0288D1-4294-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>4.294</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0288D1-4294-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>6.441</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-0288D1-4294">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0288D1-4294-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0288D1-4294-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Fiscalización de VELOCIDAD</name>
+      <Placemark>
+        <name>Ruta 4 y Libres del Sur</name>
+        <description>Fiscalización de velocidad - Máxima permitida 80 KM/H - Ruta 4 y Libres del Sur</description>
+        <styleUrl>#icon-1535-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -58.4446156,-34.796973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juan XXIII y Camino de Cintura</name>
+        <description>Fiscalización de velocidad - Máxima permitida 60 KM/H - Juan XXIII y Camino de Cintura</description>
+        <styleUrl>#icon-1535-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -58.4546471,-34.7768346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cno. Pte. JD Perón y Mayor Olivero</name>
+        <description>Fiscalización de velocidad - Máxima permitida 80 KM/H - Camino Pte. Juan D. Perón y Mayor E. Olivero</description>
+        <styleUrl>#icon-1535-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -58.4328997,-34.7393203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cno. Pte. JD Perón y Recondo</name>
+        <description>Fiscalización de velocidad - Máxima permitida 80 KM/H - Camino Pte. Juan D. Perón y Recondo</description>
+        <styleUrl>#icon-1535-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -58.451364,-34.7147716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Fiscalización de ESTACIONAMIENTO</name>
+      <Placemark>
+        <name>Fiscalización de Estacionamiento - Larroque</name>
+        <description>Fiscalización Electrónica Móvil</description>
+        <styleUrl>#line-0288D1-4294</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -58.422761,-34.7417536,0
+            -58.4184694,-34.7421415,0
+            -58.3994687,-34.744848,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Fiscalización de Estacionamiento - Av. H. Yrigoyen</name>
+        <description>Fiscalización electrónica móvil - Traza completa</description>
+        <styleUrl>#line-0288D1-3713</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -58.4087974,-34.7954268,0
+            -58.408969,-34.7930303,0
+            -58.4034309,-34.7640153,0
+            -58.3975964,-34.7353172,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Fiscalización de Estacionamiento - Av. Alsina / Alte. Brown</name>
+        <description>Fiscalización Electrónica Móvil</description>
+        <styleUrl>#line-0288D1-3713</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -58.3916044,-34.7770813,0
+            -58.3964539,-34.7701721,0
+            -58.3965826,-34.7664352,0
+            -58.3966684,-34.7646372,0
+            -58.396368,-34.7611822,0
+            -58.3922052,-34.737698,0
+            -58.391819,-34.7362521,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Fiscalización de Estacionamiento - 9 de julio</name>
+        <description>Fiscalización Electrónica Móvil</description>
+        <styleUrl>#line-0288D1-4100</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -58.3916044,-34.7770813,0
+            -58.407526,-34.7857699,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Fiscalización de Estacionamiento - Colombres</name>
+        <styleUrl>#line-0288D1-3713-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -58.4223318,-34.7612174,0
+            -58.4033257,-34.7639541,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Fiscalización de Estacionamiento - Molina Arrotea</name>
+        <description>Fiscalización Electrónica Móvil</description>
+        <styleUrl>#line-0288D1-4100</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -58.4043395,-34.7687091,0
+            -58.4289408,-34.7652013,0
+            -58.4294987,-34.76536,0
+            -58.4333181,-34.7676162,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Fiscalización de SEMÁFORO ROJO</name>
+      <Placemark>
+        <name>Av. Gral. Frías y Garibaldi</name>
+        <description>Fiscalización de semáforo en rojo - Frías y Garibaldi (ambos sentidos)</description>
+        <styleUrl>#icon-1535-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -58.4236519,-34.781253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juan XXIII y Año del Libertador</name>
+        <description>Fiscalización de semáforo en rojo - Juan XXIII y Año del Libertador (ambos sentidos)</description>
+        <styleUrl>#icon-1535-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -58.4363598,-34.7670389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
