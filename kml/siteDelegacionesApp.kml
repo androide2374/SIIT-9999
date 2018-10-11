@@ -1,0 +1,917 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Mapa sin nombre</name>
+		<description><![CDATA[]]></description>
+
+		<Folder>
+			<name>Limite por delegación</name>
+			<Placemark>
+				<name>BANFIELD ESTE</name>
+				<description><![CDATA[Del. Mateo Gentile | Av. Alsina 562 | 4209-9074 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=4'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-62AF44-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.394458,-34.735776,0.0 -58.396068,-34.750287,0.0 -58.387098,-34.751627,0.0 -58.38418,-34.750111,0.0 -58.381326,-34.75376,0.0 -58.378687,-34.757233,0.0 -58.363795,-34.749494,0.0 -58.366778,-34.745544,0.0 -58.372014,-34.741295,0.0 -58.375146,-34.743058,0.0 -58.380425,-34.738668,0.0 -58.38624,-34.737098,0.0 -58.394458,-34.735776,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>BANFIELD OESTE</name>
+				<description><![CDATA[Del. Diego Salgado | H. Yrigoyen 7819 | 4242-2312 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=3'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-7C3592-1-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.413277,-34.732602,0.0 -58.426023,-34.73835,0.0 -58.425357,-34.741401,0.0 -58.424521,-34.746338,0.0 -58.396068,-34.750287,0.0 -58.394458,-34.735776,0.0 -58.413277,-34.732602,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>VILLA CENTENARIO</name>
+				<description><![CDATA[Del. Graciela Chávez | Plumerillo 535 |  1563904118 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=2'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-9FC3FF-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.444734,-34.72255,0.0 -58.430014,-34.742406,0.0 -58.425357,-34.74126,0.0 -58.426023,-34.738209,0.0 -58.413277,-34.732461,0.0 -58.428082,-34.713167,0.0 -58.444734,-34.72255,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>LOMAS OESTE</name>
+				<description><![CDATA[Del. Gabriel Gago | Las Heras 2299 | 4242-0223 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=7'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-F8971B-2-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.412676,-34.775284,0.0 -58.413491,-34.774261,0.0 -58.412976,-34.773874,0.0 -58.411903,-34.769044,0.0 -58.410487,-34.768409,0.0 -58.406067,-34.748877,0.0 -58.424521,-34.746338,0.0 -58.425207,-34.741401,0.0 -58.430142,-34.742565,0.0 -58.42967,-34.743658,0.0 -58.429885,-34.745527,0.0 -58.430142,-34.74662,0.0 -58.430314,-34.747748,0.0 -58.431387,-34.748595,0.0 -58.432632,-34.749406,0.0 -58.43452,-34.750322,0.0 -58.435807,-34.751098,0.0 -58.435979,-34.751698,0.0 -58.43555,-34.752473,0.0 -58.434906,-34.753531,0.0 -58.433833,-34.7548,0.0 -58.43246,-34.756246,0.0 -58.431344,-34.757586,0.0 -58.430786,-34.758291,0.0 -58.430142,-34.760019,0.0 -58.427997,-34.765272,0.0 -58.429413,-34.767317,0.0 -58.429756,-34.768586,0.0 -58.429756,-34.769326,0.0 -58.428941,-34.77056,0.0 -58.428254,-34.771582,0.0 -58.428082,-34.772816,0.0 -58.427825,-34.774296,0.0 -58.427653,-34.775072,0.0 -58.427353,-34.775812,0.0 -58.426323,-34.776835,0.0 -58.425164,-34.77754,0.0 -58.424778,-34.778527,0.0 -58.424601,-34.78162,0.0 -58.412676,-34.775284,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>LOMAS MICROCENTRO</name>
+				<description><![CDATA[Funciona en del Ban-Oeste | Alberto Kahale | 2084-7181 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=15'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-DB4436-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.397527,-34.767176,0.0 -58.39757,-34.764743,0.0 -58.39714,-34.760019,0.0 -58.396068,-34.750287,0.0 -58.406211,-34.748847,0.0 -58.406839,-34.752262,0.0 -58.407869,-34.756669,0.0 -58.410487,-34.768409,0.0 -58.411903,-34.769044,0.0 -58.411946,-34.769291,0.0 -58.412976,-34.773874,0.0 -58.413491,-34.774261,0.0 -58.412676,-34.775284,0.0 -58.410273,-34.773979,0.0 -58.397527,-34.767176,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SAN JOSÉ OESTE</name>
+				<description><![CDATA[Del. Roberto Torres | Eva Perón 2946 | 4264-1305 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=18'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-7C3592-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.377518,-34.756669,0.0 -58.373269,-34.763068,0.0 -58.372668,-34.764038,0.0 -58.371702,-34.76566,0.0 -58.371295,-34.766259,0.0 -58.37063,-34.765906,0.0 -58.366424,-34.771529,0.0 -58.364471,-34.774208,0.0 -58.358742,-34.771282,0.0 -58.36209,-34.767352,0.0 -58.353163,-34.762857,0.0 -58.356167,-34.758732,0.0 -58.356489,-34.758943,0.0 -58.358377,-34.756352,0.0 -58.359429,-34.755188,0.0 -58.360523,-34.753725,0.0 -58.36224,-34.751486,0.0 -58.363806,-34.749458,0.0 -58.377518,-34.756669,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>TEMPERLEY ESTE</name>
+				<description><![CDATA[Del. Fabián García | Eva Perón 1732 | 4264-7886 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=6'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-DB4436-2-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.397462,-34.76714,0.0 -58.394973,-34.79051,0.0 -58.378429,-34.781478,0.0 -58.372335,-34.778267,0.0 -58.3677,-34.775938,0.0 -58.364396,-34.774208,0.0 -58.370554,-34.765906,0.0 -58.371241,-34.766224,0.0 -58.377473,-34.756592,0.0 -58.397462,-34.76714,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>TEMPERLEY OESTE</name>
+				<description><![CDATA[Del. Ariel Montero Senande| Avellaneda 126 | 2058-8088 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=5'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-777777-4-130</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.397543,-34.767215,0.0 -58.423743,-34.781188,0.0 -58.423029,-34.782153,0.0 -58.42083,-34.785012,0.0 -58.411732,-34.785506,0.0 -58.407569,-34.786246,0.0 -58.404179,-34.786774,0.0 -58.401389,-34.786669,0.0 -58.399844,-34.786246,0.0 -58.3989,-34.785646,0.0 -58.397484,-34.78466,0.0 -58.396497,-34.783356,0.0 -58.39611,-34.78251,0.0 -58.395939,-34.781276,0.0 -58.39611,-34.780078,0.0 -58.397543,-34.767215,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>LLAVALLOL SUR</name>
+				<description><![CDATA[Del. Miguel caradente | Antartida Argentina 1556 | 4298-3632 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=21'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-62AF44-2-135</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.410144,-34.798678,0.0 -58.412633,-34.795488,0.0 -58.422268,-34.796176,0.0 -58.42834,-34.796598,0.0 -58.42864,-34.796228,0.0 -58.434327,-34.796528,0.0 -58.442438,-34.800193,0.0 -58.440442,-34.802924,0.0 -58.43982,-34.803875,0.0 -58.439176,-34.805179,0.0 -58.436236,-34.80902,0.0 -58.430293,-34.817089,0.0 -58.405166,-34.804563,0.0 -58.407805,-34.801074,0.0 -58.408502,-34.801072,0.0 -58.410144,-34.798678,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>LLAVALLOL NORTE</name>
+				<description><![CDATA[Del. Juan Zamorano | Funciona en Delegación Sur | 4298-3632 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=20'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-A7B5D7-3-163</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.442481,-34.800211,0.0 -58.43437,-34.796546,0.0 -58.431473,-34.796335,0.0 -58.428684,-34.796246,0.0 -58.428383,-34.796616,0.0 -58.412676,-34.795506,0.0 -58.414951,-34.792705,0.0 -58.420873,-34.784951,0.0 -58.423748,-34.78125,0.0 -58.424478,-34.781497,0.0 -58.431816,-34.784352,0.0 -58.433919,-34.783752,0.0 -58.435722,-34.782378,0.0 -58.437996,-34.779382,0.0 -58.44409,-34.77138,0.0 -58.458124,-34.778571,0.0 -58.456235,-34.782307,0.0 -58.452931,-34.786854,0.0 -58.447449,-34.794308,0.0 -58.442481,-34.800211,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>PARQUE BARÓN</name>
+				<description><![CDATA[Del. Fabricio Navarro | Juan XXIII esq Iparaguirre | 4282-9837 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=13'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-009D57-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.424778,-34.780113,0.0 -58.424821,-34.778879,0.0 -58.424778,-34.778527,0.0 -58.425164,-34.77754,0.0 -58.426323,-34.776835,0.0 -58.427353,-34.775812,0.0 -58.427653,-34.775072,0.0 -58.427825,-34.774296,0.0 -58.428297,-34.772146,0.0 -58.428254,-34.771582,0.0 -58.429284,-34.770278,0.0 -58.429756,-34.769326,0.0 -58.429756,-34.768586,0.0 -58.429627,-34.76774,0.0 -58.428984,-34.766612,0.0 -58.427997,-34.765272,0.0 -58.428855,-34.763509,0.0 -58.430572,-34.759067,0.0 -58.430786,-34.758291,0.0 -58.43246,-34.756246,0.0 -58.434348,-34.754342,0.0 -58.43585,-34.753672,0.0 -58.440228,-34.751768,0.0 -58.444133,-34.753637,0.0 -58.444948,-34.752509,0.0 -58.454604,-34.75748,0.0 -58.443189,-34.77271,0.0 -58.437867,-34.779619,0.0 -58.43585,-34.782439,0.0 -58.434048,-34.783814,0.0 -58.432417,-34.784237,0.0 -58.431945,-34.784413,0.0 -58.42716,-34.782633,0.0 -58.424601,-34.78162,0.0 -58.424778,-34.780113,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SANTA MARTA</name>
+				<description><![CDATA[Del. Hernán Tapari | Funciona en Delegación Villa Albertina | 4273-8091 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=14'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-0BA9CC-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.435035,-34.736111,0.0 -58.443489,-34.740766,0.0 -58.448725,-34.743728,0.0 -58.4516,-34.74528,0.0 -58.452716,-34.743834,0.0 -58.457737,-34.746585,0.0 -58.461256,-34.748348,0.0 -58.454604,-34.75748,0.0 -58.444948,-34.752509,0.0 -58.444133,-34.753637,0.0 -58.440228,-34.751768,0.0 -58.439283,-34.752086,0.0 -58.437481,-34.752967,0.0 -58.43585,-34.753672,0.0 -58.434348,-34.754342,0.0 -58.435378,-34.753073,0.0 -58.435979,-34.751698,0.0 -58.435764,-34.750851,0.0 -58.433618,-34.749794,0.0 -58.431988,-34.748912,0.0 -58.430314,-34.747748,0.0 -58.430185,-34.746338,0.0 -58.429928,-34.744786,0.0 -58.42967,-34.743658,0.0 -58.430057,-34.742776,0.0 -58.431215,-34.741295,0.0 -58.432717,-34.73925,0.0 -58.433919,-34.737628,0.0 -58.435035,-34.736111,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>VILLA LAMADRID</name>
+				<description><![CDATA[Del. Héctor Ontivero | Newton 4171 | 4273-0800 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=11'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-C6A4CF-4-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.471685,-34.736993,0.0 -58.469453,-34.735159,0.0 -58.461084,-34.730962,0.0 -58.468251,-34.722391,0.0 -58.47338,-34.718123,0.0 -58.483615,-34.727188,0.0 -58.471685,-34.736993,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SANTA CATALINA</name>
+				<description><![CDATA[Del. Fabiana Alfaya | Diagonal 61 1640 | 4693-4258 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=12'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-795046-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.458123,-34.753002,0.0 -58.461342,-34.748348,0.0 -58.462501,-34.7487,0.0 -58.47177,-34.736993,0.0 -58.483272,-34.727505,0.0 -58.483229,-34.729727,0.0 -58.483787,-34.730962,0.0 -58.484001,-34.732302,0.0 -58.4834,-34.733395,0.0 -58.483315,-34.733783,0.0 -58.483958,-34.733889,0.0 -58.484259,-34.733501,0.0 -58.487692,-34.733642,0.0 -58.488765,-34.73463,0.0 -58.489323,-34.734242,0.0 -58.489838,-34.734665,0.0 -58.490567,-34.733642,0.0 -58.491441,-34.734247,0.0 -58.492143,-34.734923,0.0 -58.488936,-34.739285,0.0 -58.483143,-34.747114,0.0 -58.479838,-34.751662,0.0 -58.473101,-34.760794,0.0 -58.466277,-34.757233,0.0 -58.458123,-34.753002,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>BUDGE</name>
+				<description><![CDATA[Del. Oscar Zabala | Campana entre Guaminí y Campoamor | 4273-8407 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=10'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-7CCFA9-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.460354,-34.73216,0.0 -58.454217,-34.728916,0.0 -58.451858,-34.727717,0.0 -58.449196,-34.726305,0.0 -58.444412,-34.723802,0.0 -58.446321,-34.721262,0.0 -58.448853,-34.718369,0.0 -58.450741,-34.716076,0.0 -58.451535,-34.714853,0.0 -58.452801,-34.713289,0.0 -58.454475,-34.711173,0.0 -58.456492,-34.709303,0.0 -58.458509,-34.707045,0.0 -58.460569,-34.705,0.0 -58.460612,-34.704822,0.0 -58.460783,-34.705246,0.0 -58.461985,-34.706728,0.0 -58.464088,-34.709056,0.0 -58.466491,-34.711525,0.0 -58.469839,-34.714877,0.0 -58.473465,-34.718122,0.0 -58.469023,-34.721755,0.0 -58.468336,-34.72239,0.0 -58.467178,-34.723731,0.0 -58.465676,-34.7256,0.0 -58.464775,-34.726729,0.0 -58.463573,-34.727998,0.0 -58.4622,-34.729586,0.0 -58.46117,-34.730961,0.0 -58.460354,-34.73216,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>FIORITO</name>
+				<description><![CDATA[Del. Leonardo Leandro| Campana 300 | 4267-1333 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=1'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-EE9C96-4-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.445077,-34.72292,0.0 -58.428082,-34.713308,0.0 -58.446598,-34.689064,0.0 -58.46014,-34.704858,0.0 -58.457265,-34.708386,0.0 -58.454175,-34.711526,0.0 -58.451171,-34.715336,0.0 -58.44821,-34.718969,0.0 -58.445077,-34.72292,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>TURDERA</name>
+				<description><![CDATA[Del. Jonathan Labollita | H. Yrigoyen 11530 | 2064-7869 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=16'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-FFDD5E-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.42083,-34.785012,0.0 -58.410079,-34.798642,0.0 -58.395038,-34.790546,0.0 -58.39611,-34.78251,0.0 -58.39654,-34.783637,0.0 -58.397484,-34.78466,0.0 -58.399136,-34.785814,0.0 -58.39921,-34.78588,0.0 -58.400036,-34.786317,0.0 -58.400957,-34.78659,0.0 -58.402516,-34.786739,0.0 -58.403503,-34.786766,0.0 -58.404415,-34.786757,0.0 -58.406453,-34.786352,0.0 -58.408599,-34.786105,0.0 -58.410916,-34.785682,0.0 -58.411732,-34.785506,0.0 -58.413019,-34.785541,0.0 -58.414736,-34.785435,0.0 -58.416882,-34.785294,0.0 -58.418856,-34.785188,0.0 -58.42083,-34.785012,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>VILLA ALBERTINA</name>
+				<description><![CDATA[Del Julio Canale | Bayona 70 | 4273-8091 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=9'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-FFDD5E-1-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.471685,-34.736993,0.0 -58.462501,-34.7487,0.0 -58.461256,-34.748348,0.0 -58.452716,-34.743834,0.0 -58.4516,-34.74528,0.0 -58.435035,-34.736111,0.0 -58.444412,-34.723802,0.0 -58.460354,-34.73216,0.0 -58.461084,-34.730962,0.0 -58.469453,-34.735159,0.0 -58.471685,-34.736993,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>LOMAS ESTE</name>
+				<description><![CDATA[Del. Juan Carlos Stigliano | Alsina 1970 | 2061-4013 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=8'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-9FC3FF-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.397489,-34.767123,0.0 -58.378687,-34.757233,0.0 -58.38418,-34.750111,0.0 -58.387098,-34.751627,0.0 -58.396068,-34.750287,0.0 -58.396754,-34.756458,0.0 -58.397055,-34.760442,0.0 -58.397269,-34.76231,0.0 -58.39757,-34.764743,0.0 -58.397489,-34.767123,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SAN JOSÉ ESTE</name>
+				<description><![CDATA[Del. Juan Aguilera | Caaguazú 670 | 4260-0042 <br> <a href='http://webextra.lomasdezamora.gov.ar/nuevaweb/Delegaciones.aspx?d=17'>VER DELEGACIÓN</a>]]></description>
+				<styleUrl>#poly-EE9C96-3-76</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-58.353152,-34.762892,0.0 -58.336716,-34.754307,0.0 -58.342252,-34.746126,0.0 -58.343325,-34.742565,0.0 -58.34414,-34.742917,0.0 -58.344912,-34.741895,0.0 -58.344955,-34.740378,0.0 -58.345256,-34.738791,0.0 -58.345985,-34.738227,0.0 -58.347616,-34.739708,0.0 -58.356028,-34.740026,0.0 -58.366778,-34.745544,0.0 -58.363452,-34.749794,0.0 -58.360233,-34.754131,0.0 -58.356478,-34.758979,0.0 -58.356156,-34.758767,0.0 -58.353152,-34.762892,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-62AF44-normal'>
+			<IconStyle>
+				<color>ff44AF62</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-62AF44-highlight'>
+			<IconStyle>
+				<color>ff44AF62</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-62AF44'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-62AF44-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-62AF44-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-009D57-3-76-normal'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C579D00</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-009D57-3-76-highlight'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C579D00</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-009D57-3-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-009D57-3-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-009D57-3-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-0BA9CC-3-76-normal'>
+			<LineStyle>
+				<color>ffCCA90B</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CCCA90B</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-0BA9CC-3-76-highlight'>
+			<LineStyle>
+				<color>ffCCA90B</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CCCA90B</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-0BA9CC-3-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-0BA9CC-3-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-0BA9CC-3-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-62AF44-2-135-normal'>
+			<LineStyle>
+				<color>ff44AF62</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>8744AF62</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-62AF44-2-135-highlight'>
+			<LineStyle>
+				<color>ff44AF62</color>
+				<width>3.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>8744AF62</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-62AF44-2-135'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-62AF44-2-135-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-62AF44-2-135-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-62AF44-3-76-normal'>
+			<LineStyle>
+				<color>ff44AF62</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C44AF62</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-62AF44-3-76-highlight'>
+			<LineStyle>
+				<color>ff44AF62</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C44AF62</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-62AF44-3-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-62AF44-3-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-62AF44-3-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-777777-4-130-normal'>
+			<LineStyle>
+				<color>ff777777</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>82777777</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-777777-4-130-highlight'>
+			<LineStyle>
+				<color>ff777777</color>
+				<width>6.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>82777777</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-777777-4-130'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-777777-4-130-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-777777-4-130-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-795046-3-76-normal'>
+			<LineStyle>
+				<color>ff465079</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C465079</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-795046-3-76-highlight'>
+			<LineStyle>
+				<color>ff465079</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C465079</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-795046-3-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-795046-3-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-795046-3-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-7C3592-1-76-normal'>
+			<LineStyle>
+				<color>ff92357C</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C92357C</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-7C3592-1-76-highlight'>
+			<LineStyle>
+				<color>ff92357C</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C92357C</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-7C3592-1-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-7C3592-1-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-7C3592-1-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-7C3592-3-76-normal'>
+			<LineStyle>
+				<color>ff92357C</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C92357C</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-7C3592-3-76-highlight'>
+			<LineStyle>
+				<color>ff92357C</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C92357C</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-7C3592-3-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-7C3592-3-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-7C3592-3-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-7CCFA9-3-76-normal'>
+			<LineStyle>
+				<color>ffA9CF7C</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CA9CF7C</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-7CCFA9-3-76-highlight'>
+			<LineStyle>
+				<color>ffA9CF7C</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CA9CF7C</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-7CCFA9-3-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-7CCFA9-3-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-7CCFA9-3-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-9FC3FF-3-76-normal'>
+			<LineStyle>
+				<color>ffFFC39F</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CFFC39F</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-9FC3FF-3-76-highlight'>
+			<LineStyle>
+				<color>ffFFC39F</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CFFC39F</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-9FC3FF-3-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-9FC3FF-3-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-9FC3FF-3-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-A7B5D7-3-163-normal'>
+			<LineStyle>
+				<color>ffD7B5A7</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>A3D7B5A7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-A7B5D7-3-163-highlight'>
+			<LineStyle>
+				<color>ffD7B5A7</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>A3D7B5A7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-A7B5D7-3-163'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-A7B5D7-3-163-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-A7B5D7-3-163-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-C6A4CF-4-76-normal'>
+			<LineStyle>
+				<color>ffCFA4C6</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CCFA4C6</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-C6A4CF-4-76-highlight'>
+			<LineStyle>
+				<color>ffCFA4C6</color>
+				<width>6.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CCFA4C6</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-C6A4CF-4-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-C6A4CF-4-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-C6A4CF-4-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-DB4436-2-76-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C3644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-DB4436-2-76-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>3.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C3644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-DB4436-2-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-DB4436-2-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-DB4436-2-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-DB4436-3-76-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C3644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-DB4436-3-76-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C3644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-DB4436-3-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-DB4436-3-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-DB4436-3-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-EE9C96-3-76-normal'>
+			<LineStyle>
+				<color>ff969CEE</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C969CEE</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-EE9C96-3-76-highlight'>
+			<LineStyle>
+				<color>ff969CEE</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C969CEE</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-EE9C96-3-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-EE9C96-3-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-EE9C96-3-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-EE9C96-4-76-normal'>
+			<LineStyle>
+				<color>ff969CEE</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C969CEE</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-EE9C96-4-76-highlight'>
+			<LineStyle>
+				<color>ff969CEE</color>
+				<width>6.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C969CEE</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-EE9C96-4-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-EE9C96-4-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-EE9C96-4-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-F8971B-2-76-normal'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C1B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-F8971B-2-76-highlight'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>3.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C1B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-F8971B-2-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-F8971B-2-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-F8971B-2-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FFDD5E-1-76-normal'>
+			<LineStyle>
+				<color>ff5EDDFF</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C5EDDFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-FFDD5E-1-76-highlight'>
+			<LineStyle>
+				<color>ff5EDDFF</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C5EDDFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-FFDD5E-1-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FFDD5E-1-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FFDD5E-1-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FFDD5E-3-76-normal'>
+			<LineStyle>
+				<color>ff5EDDFF</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C5EDDFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-FFDD5E-3-76-highlight'>
+			<LineStyle>
+				<color>ff5EDDFF</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C5EDDFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-FFDD5E-3-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FFDD5E-3-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FFDD5E-3-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
